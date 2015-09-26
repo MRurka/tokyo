@@ -9,7 +9,7 @@ img-background: img/port/norm/background-sf.jpg
 thumb:	
 w-thumb:
 
-title:  "Selective Few"
+title:  "Mobile upload test"
 subtitle: Ecommerce Company
 w-title: 2
 

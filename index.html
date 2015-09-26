@@ -13,11 +13,8 @@ layout: default
 				</svg>
 			</div>
 		</div>
-		<div class="subtitle">
-			<h1 id="typed"></h1>
-		</div>
 
-		<nav>
+		<!-- <nav>
 			<ul>
 				<li class="work">
 					<a id="work" rel="modal:close">
@@ -31,13 +28,13 @@ layout: default
 					</a>
 				</li>
 			</ul>
-		</nav>
+		</nav> -->
 
-		<div id="work-section" class="work-section blocks">
+		<div id="work-section" class="work-section blocks active">
 			<section class="work-section block one">
 				<div id="index-gall" class="index-gall container">
 					{% for post in site.categories.portfolio %}
-						<div id="{{ post.port-id }}" class="work-section-bg" style="background-image:url({{ post.img-background }})"></div>
+						<!-- <div id="{{ post.port-id }}" class="work-section-bg" style="background-image:url({{ post.img-background }})"></div> -->
 					{% endfor %}
 					<div id="close-modal"></div>
 					<div class="item-container">
@@ -57,7 +54,6 @@ layout: default
 		</div>
 
 	
-		
 
 		{% include footer.html %}
 
@@ -110,31 +106,32 @@ layout: default
 			$('#index-gall .item').removeClass('morph');
 		});
 
-		// Hide Nav on item hover
-		$("#index-gall .item").hover(function() {
-	 	    $("nav a").css("opacity", 0);
-	 	  }, function(){
-	 		$("nav a").css("opacity", 1);
-	 	});
+		// // Hide Nav on item hover
+		// $("#index-gall .item").hover(function() {
+	 // 	    $("nav a").css("opacity", 0);
+	 // 	  }, function(){
+	 // 		$("nav a").css("opacity", 1);
+	 // 	});
 
-		// Hide items except hovered
-	 	$('.index-gall .item').hover(
-		    function() {
-		        $(".index-gall .item:not(:hover)").css({"opacity":"0"});
-		    },
-		    function() {
-		        $(".index-gall .item").css({"opacity":"1"});
-		    }
-		);
+		// // Hide items except hovered
+	 // 	$('.index-gall .item').hover(
+		//     function() {
+		//         $(".index-gall .item:not(:hover)").css({"opacity":"0"});
+		//     },
+		//     function() {
+		//         $(".index-gall .item").css({"opacity":"1"});
+		//     }
+		// );
 
 		// TOGGLE BACKGROUND IMAGE IN WORK SECTION ON ITEM HOVER
-		{% for post in site.categories.portfolio %}
-			$("#index-gall #{{ post.port-id }} .content").hover(function() {
-		 	    $("#{{ post.port-id }}.work-section-bg").css("opacity", "1");  
-		 	  }, function(){
-		 		$("#{{ post.port-id }}.work-section-bg").css("opacity", "0");  
-		 	});
-		{% endfor %}
+		
+		// {% for post in site.categories.portfolio %}
+		// 	$("#index-gall #{{ post.port-id }} .content").hover(function() {
+		//  	    $("#{{ post.port-id }}.work-section-bg").css("opacity", "1");  
+		//  	  }, function(){
+		//  		$("#{{ post.port-id }}.work-section-bg").css("opacity", "0");  
+		//  	});
+		// {% endfor %}
 
 	</script>
 	<script>

@@ -9,7 +9,7 @@ img-background: img/port/norm/background-rurking.jpg
 thumb:	img/port/norm/rurking-t2.jpg
 w-thumb: 1
 
-title:  "Rurking Hard"
+title:  "Rurking"
 subtitle: Branding Concept
 w-title: 2
 

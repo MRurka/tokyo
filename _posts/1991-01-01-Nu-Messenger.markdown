@@ -9,7 +9,7 @@ img-background: img/port/norm/nu/background.gif
 thumb:	
 w-thumb:
 
-title:  "xxx"
+title:  "bhjhxxx"
 subtitle: Social Web Application
 w-title: 4
 

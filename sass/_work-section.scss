@@ -35,13 +35,7 @@ body.loaded {
 			float:left;
 			z-index: 9;
 			width: calc((100% / 3));
-	 		// margin: 3.5em 3% 0 3%;
-	 		// border: 1px solid #000;
-	 		@include border-radius(2px);
 			@include transition(all .25s ease);
-			&:hover {
-				// border: 2px solid $c1;
-			}
 
 			.background-img {
 				top:0;
@@ -53,6 +47,25 @@ body.loaded {
 				background-size:cover;
 	 			background-position:center;
 				@include transition(opacity .25s ease);
+				&:after {
+					content:"";
+					position: absolute;
+					top:0;
+					left:0;
+					right:0;
+					bottom:0;
+					background-color: rgba(0, 0, 0, 0.25);
+					z-index: 2;
+					@include transition(background-color 1s ease-in-out);
+				}
+			}
+
+			&:hover {
+				.background-img {
+					&:after {
+						background-color: rgba(0, 0, 0, 0.0);
+					}
+				}
 			}
 
 			a.content {
@@ -67,16 +80,30 @@ body.loaded {
 				@include transition(color .25s linear);
 
 				.text-container {	
+					text-align: center;
+					height: 100%;
+					position: relative;
+					z-index: 3;
 
+					&:before {
+						content: '';
+						display: inline-block;
+						vertical-align: middle;
+						height: 100%;
+					}
 				}
-				
+
 				.text-content {
+					display: inline-block;
+					vertical-align: middle;
+
 
 					.title {
 						font-size: 2em;
 						width: 100%;
 						color: #fff;
 						z-index: 99;
+						padding:7px 0 0 0;
 						letter-spacing: 5px;
 						line-height: 1.4em;
 						font-weight: 300;
@@ -89,7 +116,7 @@ body.loaded {
 					.desc {
 						font-size: 0.8em;
 						display: block;
-						color: #9EACB3;
+						color: #fff;
 						font-weight: 300;
 						letter-spacing: 4px;
 						margin: .5em 0;
@@ -135,7 +162,6 @@ body.loaded {
 
 		.item {
 			width:50%;
-			background:#fff;
 			border: none;
 
 			a.content {
@@ -147,19 +173,10 @@ body.loaded {
 				}
 				.desc {
 					font-size: 0.9em;
-					color: #979797;
 					font-weight: 400;
 					letter-spacing: .5px;
 					margin: .4em 0 .5em 0;
 				}
-
-				&:last-child {
-					margin:0;
-				}
-			}
-
-			.background-img {
-				opacity: 1;
 			}
 		}
 	}

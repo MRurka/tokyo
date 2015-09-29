@@ -756,9 +756,6 @@ body.loaded .work-section {
       float: left;
       z-index: 9;
       width: calc((100% / 3));
-      -moz-border-radius: 2px;
-      -webkit-border-radius: 2px;
-      border-radius: 2px;
       -moz-transition: all 0.25s ease;
       -o-transition: all 0.25s ease;
       -webkit-transition: all 0.25s ease;
@@ -776,6 +773,21 @@ body.loaded .work-section {
         -o-transition: opacity 0.25s ease;
         -webkit-transition: opacity 0.25s ease;
         transition: opacity 0.25s ease; }
+        .work-section .container .item .background-img:after {
+          content: "";
+          position: absolute;
+          top: 0;
+          left: 0;
+          right: 0;
+          bottom: 0;
+          background-color: rgba(0, 0, 0, 0.25);
+          z-index: 2;
+          -moz-transition: background-color 1s ease-in-out;
+          -o-transition: background-color 1s ease-in-out;
+          -webkit-transition: background-color 1s ease-in-out;
+          transition: background-color 1s ease-in-out; }
+      .work-section .container .item:hover .background-img:after {
+        background-color: transparent; }
       .work-section .container .item a.content {
         width: 100%;
         z-index: 6;
@@ -789,33 +801,47 @@ body.loaded .work-section {
         -o-transition: color 0.25s linear;
         -webkit-transition: color 0.25s linear;
         transition: color 0.25s linear; }
-        .work-section .container .item a.content .text-content .title {
-          font-size: 2em;
-          width: 100%;
-          color: #fff;
-          z-index: 99;
-          letter-spacing: 5px;
-          line-height: 1.4em;
-          font-weight: 300;
-          text-transform: uppercase;
+        .work-section .container .item a.content .text-container {
           text-align: center;
-          -moz-transition: all 0.3s ease;
-          -o-transition: all 0.3s ease;
-          -webkit-transition: all 0.3s ease;
-          transition: all 0.3s ease;
-          overflow: visible; }
-        .work-section .container .item a.content .text-content .desc {
-          font-size: 0.8em;
-          display: block;
-          color: #9EACB3;
-          font-weight: 300;
-          letter-spacing: 4px;
-          margin: .5em 0;
-          text-transform: uppercase;
-          -moz-transition: all 0.3s ease;
-          -o-transition: all 0.3s ease;
-          -webkit-transition: all 0.3s ease;
-          transition: all 0.3s ease; }
+          height: 100%;
+          position: relative;
+          z-index: 3; }
+          .work-section .container .item a.content .text-container:before {
+            content: '';
+            display: inline-block;
+            vertical-align: middle;
+            height: 100%; }
+        .work-section .container .item a.content .text-content {
+          display: inline-block;
+          vertical-align: middle; }
+          .work-section .container .item a.content .text-content .title {
+            font-size: 2em;
+            width: 100%;
+            color: #fff;
+            z-index: 99;
+            padding: 7px 0 0 0;
+            letter-spacing: 5px;
+            line-height: 1.4em;
+            font-weight: 300;
+            text-transform: uppercase;
+            text-align: center;
+            -moz-transition: all 0.3s ease;
+            -o-transition: all 0.3s ease;
+            -webkit-transition: all 0.3s ease;
+            transition: all 0.3s ease;
+            overflow: visible; }
+          .work-section .container .item a.content .text-content .desc {
+            font-size: 0.8em;
+            display: block;
+            color: #fff;
+            font-weight: 300;
+            letter-spacing: 4px;
+            margin: .5em 0;
+            text-transform: uppercase;
+            -moz-transition: all 0.3s ease;
+            -o-transition: all 0.3s ease;
+            -webkit-transition: all 0.3s ease;
+            transition: all 0.3s ease; }
 
 .index-gall .item.morph {
   width: 100%;
@@ -836,7 +862,6 @@ body.loaded .work-section {
       display: none; }
     .work-section .container .item {
       width: 50%;
-      background: #fff;
       border: none; }
       .work-section .container .item a.content .title {
         font-size: 1.4em;
@@ -844,14 +869,9 @@ body.loaded .work-section {
         letter-spacing: 1px; }
       .work-section .container .item a.content .desc {
         font-size: 0.9em;
-        color: #979797;
         font-weight: 400;
         letter-spacing: .5px;
-        margin: .4em 0 .5em 0; }
-      .work-section .container .item a.content:last-child {
-        margin: 0; }
-      .work-section .container .item .background-img {
-        opacity: 1; } }
+        margin: .4em 0 .5em 0; } }
 @media (max-width: 600px) {
   .work-section .container {
     padding: 7em 0 0 0; }

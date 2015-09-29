@@ -9,7 +9,7 @@ img-background: img/port/norm/background-kaa.jpg
 thumb:	img/port/norm/kaa-t2.jpg
 w-thumb: 1
 
-title:  "KAA"
+title:  "Kvgggg"
 subtitle: Brand Concept
 w-title: 1
 

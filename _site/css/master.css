@@ -1303,7 +1303,7 @@ body.loaded .landing .logo svg {
   font-weight: 500;
   line-height: 1.2em;
   font-size: 2em;
-  letter-spacing: 8px;
+  letter-spacing: 2px;
   color: #000;
   text-transform: uppercase; }
 .modal b {
@@ -1349,7 +1349,7 @@ body.loaded .landing .logo svg {
     padding: 2em 1.5em; } }
 @media (max-width: 600px) {
   .modal.current {
-    padding: 9%;
+    padding: 5%;
     z-index: 99999 !important; }
 
   .modal {

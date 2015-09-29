@@ -20,17 +20,19 @@ layout: default
 					<div id="close-modal"></div>
 					<div class="item-container">
 						{% for post in site.categories.portfolio %}
-							<div id="{{ post.port-id }}" class="item">
-								<a class="content" href="{{ post.url | prepend: site.baseurl }}" rel="modal:open">
-									<div class="text-container">
-										<div class="text-content">
-											<div class="title">{{ post.title }}</div>
-											<div class="desc">{{ post.subtitle }}</div>
+							{% if post.thumb %}
+								<div id="{{ post.port-id }}" class="item">
+									<a class="content" href="{{ post.url | prepend: site.baseurl }}" rel="modal:open">
+										<div class="text-container">
+											<div class="text-content">
+												<div class="title">{{ post.title }}</div>
+												<div class="desc">{{ post.subtitle }}</div>
+											</div>
 										</div>
-									</div>
-									<div class="background-img" style="background-image:url(https://rurkatokyoseoul.files.wordpress.com/2015/{{ post.month-number }}/{{ post.thumb }});"></div>
-								</a>
-							</div>
+										<div class="background-img" style="background-image:url(https://rurkatokyoseoul.files.wordpress.com/2015/{{ post.month-number }}/{{ post.thumb }});"></div>
+									</a>
+								</div>
+							{% endif %}
 						{% endfor %}
 					</div>
 				</div>

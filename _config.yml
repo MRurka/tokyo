@@ -1,7 +1,6 @@
 # Site settings
-title: Tokyo / Seoul
-email: michael@rurkadesign.com
-description: "XXX"
+title: "Tokyo & Seoul Venture"
+description: "The Tokyo & Seoul Venture by Michael Rurka. Love you mum + papa."
 baseurl: "/tokyo" # the subpath of your site, e.g. /blog/
 url: "http://mrurka.github.io" # the base hostname & protocol for your site
 

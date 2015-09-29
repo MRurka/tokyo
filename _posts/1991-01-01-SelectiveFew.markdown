@@ -6,7 +6,7 @@ month-number: 09
 
 date: 2015-08-8 21:35:54
 
-title:  "TEST"
+title:  "Day 1 - 7 (test)"
 
 thumb:	img_3845.jpg
 
@@ -27,4 +27,4 @@ w-5:	2
 
 ---
 
-
+Super stoked. Kinda scared. Testing mobile upload of pics via WordPress and committing through codehub ios app. Hope this process proves reliable overseas.

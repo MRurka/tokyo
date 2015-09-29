@@ -9,7 +9,7 @@ img-background: img/port/norm/background-sf.jpg
 thumb:	
 w-thumb:
 
-title:  "Mobile upload test"
+title:  "Mobiltest"
 subtitle: Ecommerce Company
 w-title: 2
 

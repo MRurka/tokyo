@@ -6,7 +6,7 @@ month-number: 09
 
 date: 2015-10-1 23:55:55
 
-title:  "mobile test"
+title:  "mobile testhhhhhh"
 subtitle: "winningXxxxxxxx"
 
 thumb:	img_3568.jpg 

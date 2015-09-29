@@ -6,14 +6,15 @@ month-number: 09
 
 date: 2015-08-8 21:35:54
 
-title:  "Day 1 - 7 (test)"
+title:  "Day 1 - 7"
+subtitle: "The Journey Begins"
 
 thumb:	img_3845.jpg
 
 img-1:	img_3845.jpg
 w-1:	2
 
-img-2:	img_3568.jpg
+img-2:	img_3568.png
 w-2:	2
 
 img-3:	img_3584.jpg

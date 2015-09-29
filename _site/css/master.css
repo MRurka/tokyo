@@ -789,16 +789,14 @@ body.loaded .work-section {
         -o-transition: color 0.25s linear;
         -webkit-transition: color 0.25s linear;
         transition: color 0.25s linear; }
-        .work-section .container .item a.content .title {
-          font-size: .9em;
-          letter-spacing: 0.5em;
-          bottom: 5vh;
+        .work-section .container .item a.content .text-content .title {
+          font-size: 2em;
           width: 100%;
           color: #fff;
           z-index: 99;
-          position: absolute;
+          letter-spacing: 5px;
           line-height: 1.4em;
-          font-weight: 700;
+          font-weight: 300;
           text-transform: uppercase;
           text-align: center;
           -moz-transition: all 0.3s ease;
@@ -806,7 +804,7 @@ body.loaded .work-section {
           -webkit-transition: all 0.3s ease;
           transition: all 0.3s ease;
           overflow: visible; }
-        .work-section .container .item a.content .desc {
+        .work-section .container .item a.content .text-content .desc {
           font-size: 0.8em;
           display: block;
           color: #9EACB3;
@@ -817,8 +815,7 @@ body.loaded .work-section {
           -moz-transition: all 0.3s ease;
           -o-transition: all 0.3s ease;
           -webkit-transition: all 0.3s ease;
-          transition: all 0.3s ease;
-          display: none; }
+          transition: all 0.3s ease; }
 
 .index-gall .item.morph {
   width: 100%;

@@ -13,85 +13,125 @@ subtitle: " "
 thumb:	xxx.gif
 
 img-1:	xxx.gif
+cap-1:	Win
 
 img-2:	
+cap-2:	
 
 img-3:	
+cap-3: 	
 
 img-4:	
+cap-4:	
 
 img-5:	
+cap-5:	
 
 img-6:	
+cap-6:	
 
 img-7:	
+cap-7:	
 
 img-8:	
+cap-8:	
 
 img-9:	
+cap-9:	
 
 img-10:	
+cap-10:	
 
 img-11:	
+cap-11:	
 
 img-12:	
+cap-12:	
 
 img-13:	
+cap-13:	
 
 img-14:	
+cap-14:	
 
 img-15:	
+cap-15:	
 
 img-16:	
+cap-16:	
 
 img-17:	
+cap-17:	
 
 img-18:	
+cap-18:	
 
 img-19:	
+cap-19:	
 
 img-20:	
+cap-20:	
 
 img-21:	
+cap-21:	
 
 img-22:	
+cap-22:	
 
 img-23:	
+cap-23:	
 
 img-24:	
+cap-24:	
 
 img-25:	
+cap-25:	
 
 img-26:	
+cap-26:	
 
 img-27:	
+cap-27:	
 
 img-28:	
+cap-28:	
 
 img-29:	
+cap-29:	
 
 img-30:	
+cap-30:	
 
 img-31:	
+cap-31:	
 
 img-32:	
+cap-32:	
 
 img-33:	
+cap-33:	
 
 img-34:	
+cap-34:	
 
 img-35:	
+cap-35:	
 
 img-36:	
+cap-36:	
 
 img-37:	
+cap-37:	
 
 img-38:	
+cap-38:	
 
 img-39:	
+cap-39:	
 
 img-40:	
+cap-40:	
 
 ---
 
-Need this placeholder otherwise the website breaks <3
+

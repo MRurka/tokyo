@@ -55,6 +55,15 @@
 	padding: 0 0 6em 0;
 }
 
+.caption {
+    font-weight: 300;
+    color: #8E8E8E;
+    font-size: .95em;
+    margin: 10px 0 5px 0;
+    border-left: 4px solid #C5C5C5;
+    padding: 0 0 0 10px;
+}
+
 .modal-header {
 	padding: 10vh 1em 3em 1em;
 }
@@ -209,6 +218,7 @@
 		list-style: initial;
 		margin: 0 0 0 20px;
 	}
+
 	p img {
 		height:auto;
 

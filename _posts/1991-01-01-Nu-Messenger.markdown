@@ -9,7 +9,7 @@ img-background: img/port/norm/nu/background.gif
 thumb:	
 w-thumb:
 
-title:  "Nu Messenger"
+title:  "xxx"
 subtitle: Social Web Application
 w-title: 4
 

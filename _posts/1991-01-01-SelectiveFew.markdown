@@ -13,9 +13,9 @@ title:  "Selective Few"
 subtitle: Ecommerce Company
 w-title: 2
 
-img-1:	img/port/norm/sf-home.jpg
+img-1:	img_3845.jpg
 alt-1:	
-w-1:	1
+w-1:	2
 
 img-2:	img/port/norm/sf-category.jpg
 alt-2:	

@@ -9,7 +9,7 @@ img-background: img/port/norm/background-ep.jpg
 thumb:	img/port/norm/efs1-t.jpg
 w-thumb: 1
 
-title:  "EP"
+title:  "Eshajsjsbsh"
 subtitle: Fine Art
 w-title: 1
 

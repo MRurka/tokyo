@@ -10,7 +10,7 @@ thumb:	img/port/norm/rurking-t2.jpg
 w-thumb: 1
 
 title:  "Rurking"
-subtitle: Branding Concept
+subtitle: Branding Conceptbjjvvhv
 w-title: 2
 
 img-1:	img/port/norm/rurking-1.jpg

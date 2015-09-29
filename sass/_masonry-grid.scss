@@ -38,6 +38,25 @@
 			}
 		}
 	}
+	@media (max-width: 768px) {
+		.item {
+			padding:1em;
+			width:24.9%;
+			
+			&.w1 {
+				width:99.9%;
+			}
+			&.w2 {
+				width:99.9%;
+			}
+			&.w3 {
+				width:99.9%;
+			}
+			&.w4 {
+				width:99.9%;
+			}
+		}
+	}
 	@media (max-width: 600px) {
 		.item {
 			width:25%;

@@ -9,7 +9,7 @@ img-background: img/port/norm/background-red.jpg
 thumb:	img/port/norm/red-t2.jpg
 w-thumb: 1
 
-title:  "RED"
+title:  "REhhhvv"
 subtitle: Design Concept
 w-title: 1
 

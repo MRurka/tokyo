@@ -6,7 +6,8 @@ month-number: 09
 
 date: 2015-10-1 23:55:55
 
-title:  "Coming SoOoO"
+title:  "Coming Soon"
+
 subtitle: " "
 
 thumb:	xxx.gif

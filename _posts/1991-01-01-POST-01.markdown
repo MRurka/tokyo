@@ -6,12 +6,12 @@ month-number: 09
 
 date: 2015-10-1 23:55:55
 
-title:  "test"
-subtitle: "test"
+title:  "Coming Soon"
+subtitle: " "
 
-thumb:	img_3568.jpg
+thumb:	xxx.gif
 
-img-1:	img_3568.jpg
+img-1:	xxx.gif
 
 img-2:	
 
@@ -93,4 +93,4 @@ img-40:
 
 ---
 
-
+Need this placeholder otherwise the website breaks <3

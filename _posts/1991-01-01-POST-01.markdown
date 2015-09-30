@@ -4,11 +4,11 @@ layout: gallery
 categories: portfolio
 month-number: 09
 
-date: 2015-10-1 23:55:55
+date: 2015-09-30 23:55:55
 
 title:  "Preface"
 
-subtitle: " "
+subtitle: "Brief Overview"
 
 thumb:	img_4289.jpg
 

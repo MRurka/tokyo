@@ -10,10 +10,10 @@ title:  "Preface"
 
 subtitle: " "
 
-thumb:	xxx.gif
+thumb:	img_4289.jpg
 
-img-1:	xxx.gif
-cap-1:	
+img-1:	img_4289.jpg
+cap-1:	My flight plan!
 
 img-2:	
 cap-2:	

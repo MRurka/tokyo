@@ -13,9 +13,9 @@ subtitle: " "
 thumb:	xxx.gif
 
 img-1:	xxx.gif
-cap-1:	caption test. Tis what happens when you code at 3AM
+cap-1:	
 
-img-2:	xxx.gif
+img-2:	
 cap-2:	
 
 img-3:	

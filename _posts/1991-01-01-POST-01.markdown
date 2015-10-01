@@ -2,33 +2,33 @@
 
 layout: gallery
 categories: portfolio
-month-number: 09
+month-number: 10
 
-date: 2015-09-30 23:55:55
+date: 2015-10-01 23:55:55
 
-title:  "Preface"
+title:  "Day 1"
 
-subtitle: "Brief Overview"
+subtitle: "The Beginning"
 
-thumb:	img_4289.jpg
+thumb:	img_4303.jpg
 
-img-1:	img_4289.jpg
-cap-1:	My flight plan!
+img-1:	img_4303.jpg
+cap-1:	Waiting in Montreal
 
-img-2:	img_4290.png
-cap-2:	Sort of a shared space. 5 nights.
+img-2:	
+cap-2:	
 
-img-3:	img_4291.png
-cap-3: 	The CUBE hostel, shared with 3 people. 1 week.
+img-3:	
+cap-3: 	
 
-img-4:	img_4292.png
-cap-4:	Shared with 11 others. Pizza Wednesdays + free club crawls on weekends.
+img-4:    
+cap-4:	
 
-img-5:	img_4293.png
-cap-5:	Koto neighbourhood, chill area, next to canals. 
+img-5:    
+cap-5:	
 
-img-6:	img_4294.png
-cap-6:	Party / Red light district. 2 weeks.
+img-6:	
+cap-6:	
 
 img-7:	
 cap-7:	

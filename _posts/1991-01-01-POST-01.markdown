@@ -18,22 +18,22 @@ cap-1:
 img-2:	img_4304.jpg
 cap-2:	Waiting in Montreal
 
-img-3:	
+img-3:	img_4329.jpg
 cap-3: 	
 
-img-4:    
+img-4:    img_4345.jpg
 cap-4:	
 
-img-5:    
+img-5:    img_4333.jpg
 cap-5:	
 
-img-6:	
-cap-6:	
+img-6:	img_4339-0.jpg
+cap-6:	One of the best sandwiches ever, watching the story of Coco Chanelle.
 
-img-7:	
-cap-7:	
+img-7:	img_4444.jpg
+cap-7:	Super tasty chicken :)
 
-img-8:	
+img-8:	img_4438.jpg
 cap-8:	
 
 img-9:	

@@ -36,26 +36,26 @@ cap-7:	Super tasty chicken :)
 img-8:	img_4438.jpg
 cap-8:	
 
-img-9:	
-cap-9:	
+img-9:	img_44421.jpg
+cap-9:	Drawing on the plane :)
 
-img-10:	
+img-10:	img_44431.jpg
 cap-10:	
 
-img-11:	
-cap-11:	
+img-11:	img_4436.jpg
+cap-11:	Shuttle to the City! Long ride.
 
-img-12:	
+img-12:	img_4432.jpg
 cap-12:	
 
-img-13:	
-cap-13:	
+img-13:	img_4389.jpg
+cap-13:	Tony (staying) and Kobiyashi (owner)
 
-img-14:	
-cap-14:	
+img-14:	img_43941.jpg
+cap-14:	As expected!
 
-img-15:	
-cap-15:	
+img-15:	img_4434.img
+cap-15: Sheets, towel, tooth brush, soap and shampoos!
 
 img-16:	
 cap-16:	

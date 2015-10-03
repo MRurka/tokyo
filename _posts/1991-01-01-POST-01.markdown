@@ -57,31 +57,31 @@ cap-14:	As expected!
 img-15:	img_4434.img
 cap-15: Sheets, towel, tooth brush, soap and shampoos!
 
-img-16:	
-cap-16:	
+img-16:	img_4393.jpg
+cap-16:	Watching TV with Kobiyashi 
 
-img-17:	
-cap-17:	
+img-17:	img_4388.jpg
+cap-17:	First meal in japan! Got it all on my own ;p
 
-img-18:	
+img-18:	img_4390.jpg
 cap-18:	
 
-img-19:	
+img-19:	img_4395.jpg
 cap-19:	
 
-img-20:	
+img-20:	img_4445.jpg
 cap-20:	
 
-img-21:	
+img-21:	img_4440.jpg
 cap-21:	
 
-img-22:	
+img-22:	img_4433.jpg
 cap-22:	
 
-img-23:	
+img-23:	img_4396.jpg
 cap-23:	
 
-img-24:	
+img-24:	img_4391.jpg
 cap-24:	
 
 img-25:	

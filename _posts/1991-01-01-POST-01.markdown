@@ -84,10 +84,10 @@ cap-23:
 img-24:	img_4391.jpg
 cap-24:	
 
-img-25:	
+img-25:	img_4435.jpg
 cap-25:	
 
-img-26:	
+img-26:	img_4379.gif
 cap-26:	
 
 img-27:	

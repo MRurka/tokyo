@@ -6,8 +6,8 @@ month-number: 10
 
 date: 2015-10-1 23:55:55
 
-title:  " "
-subtitle: " "
+title:  "Day 2"
+subtitle: "Beautiful Garden, Expensive Bottle"
 
 thumb:	
 
@@ -133,4 +133,10 @@ cap-40:
 
 ---
 
-First test on mobile
+Walked to Kiyosumiteien, a very gorgeous traditional Japanese garden surrounded by the urban landscape. On the way I stumbled upon a gathering, watching children play out choreography instructed by whistle, accompanied by music and singing. There was also a (free) park right next to the Japanese garden. 
+
+In Kiyosumiteien, it was easy to forget you're in a city of 9 Million, in awe, looking at turtles, big koy fish, listening to the sounds of crickets. Admission was ¥120 (~$1.20 CAD), what a deal!
+
+Not knowing I was actually lost, I found a little house-restaurant. On the window outside was their whole menu in big pictures and clear prices. I snapped a pic of the meal I wanted and showed it to the gentle lady on my way in. I thought it was chicken in the picture, but it was liver. 
+
+Hours later, I find my way home, checked my email for a meetup happening that night and just my luck!: There was an Internationals salsa club-crawl meetup. Managed to make my way there in one try, without any trouble. It was about 

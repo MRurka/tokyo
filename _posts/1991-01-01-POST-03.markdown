@@ -4,50 +4,50 @@ layout: gallery
 categories: portfolio
 month-number: 10
 
-date: 2015-10-1 23:55:55
+date: 2015-10-4 23:55:55
 
-title:  " "
-subtitle: " "
+title:  "Day 3"
+subtitle: "Reflection"
 
-thumb:	
+thumb:	img_4689.jpg
 
-img-1:	
+img-1:	img_4694.jpg
 cap-1:	
 
-img-2:	
+img-2:	img_4693.jpg
 cap-2:	
 
-img-3:	
-cap-3: 	
+img-3:	img_4692.jpg
+cap-3: 	People fishing in the Onakigawa canal 
 
-img-4:	
-cap-4:	
+img-4:	img_4691.jpg
+cap-4:	These little tile accents are everywhere in this neighbourhood. All different.
 
-img-5:	
-cap-5:	
+img-5:	img_4690.jpg
+cap-5:	Someone said "Tallest TV tower in the world"
 
-img-6:	
+img-6:	img_4689.jpg
 cap-6:	
 
-img-7:	
+img-7:	img_4688.jpg
 cap-7:	
 
-img-8:	
+img-8:	img_4687.jpg
 cap-8:	
 
-img-9:	
+img-9:	img_4686.jpg
 cap-9:	
 
-img-10:	
+img-10:	img_4685.jpg
 cap-10:	
 
-img-11:	
+img-11:	img_4663.jpg
 cap-11:	
 
-img-12:	
-cap-12:	
+img-12:	img_4684.jpg
+cap-12:	Beautiful tree bark design. Like spotted camo.
 
-img-13:	
+img-13:
 cap-13:	
 
 img-14:	
@@ -133,4 +133,4 @@ cap-40:
 
 ---
 
-
+Did nothing today. Below are some images I took yesterday, while lost.

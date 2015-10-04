@@ -84,7 +84,7 @@ img-24:	img_4748.jpg
 cap-24:	Club no.2
 
 img-25:	img_4749.jpg
-cap-25:	Great new friends, from left to right: Girl 1, Girl 2 (Native Japanese High School Teacher), Laura from South Africa, Edward from Sydney Australia. 
+cap-25:	Great new friends, from left to right= Girl 1, Girl 2 (Native Japanese High School Teacher), Laura from South Africa, Edward from Sydney Australia. 
 
 img-26:	img_4750.jpg
 cap-26:	A testament to japan's low crime rate. People leave their phones, drinks, purses around freely.
@@ -96,7 +96,7 @@ img-28:	img_4752.jpg
 cap-28:	Club no. 3
 
 img-29:	img_4754.jpg
-cap-29:	More friends! From left to right: Guy (don't  know him), Girl from USA, and alleged stock trader millionaire Sandor from Belgium. Says he lost a few million in stock trading so he's taking some time off in Tokyo. Very nice guy :)
+cap-29:	More friends! From left to right= Guy (don't  know him), Girl from USA, and alleged stock trader millionaire Sandor from Belgium. Says he lost a few million in stock trading so he's taking some time off in Tokyo. Very nice guy =)
 
 img-30:	img_4755.jpg
 cap-30:	On my way home. Half conscious. 

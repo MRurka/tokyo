@@ -74,38 +74,38 @@ cap-20:
 img-21:	img_4683.jpg
 cap-21:	
 
-img-22:	
-cap-22:	
+img-22:	img_4756.jpg
+cap-22:	I was the first one there :p
 
-img-23:	
-cap-23:	
+img-23:	img_4747.jpg
+cap-23:	Bit packed for all of us really.
 
-img-24:	
-cap-24:	
+img-24:	img_4748.jpg
+cap-24:	Club no.2
 
-img-25:	
-cap-25:	
+img-25:	img_4749.jpg
+cap-25:	Great new friends, from left to right: Girl 1, Girl 2 (Native Japanese High School Teacher), Laura from South Africa, Edward from Sydney Australia. 
 
-img-26:	
-cap-26:	
+img-26:	img_4750.jpg
+cap-26:	A testament to japan's low crime rate. People leave their phones, drinks, purses around freely.
 
-img-27:	
-cap-27:	
+img-27:	img_4751.jpg
+cap-27:	Onto club no. 3
 
-img-28:	
-cap-28:	
+img-28:	img_4752.jpg
+cap-28:	Club no. 3
 
-img-29:	
-cap-29:	
+img-29:	img_4754.jpg
+cap-29:	More friends! From left to right: Guy (don't  know him), Girl from USA, and alleged stock trader millionaire Sandor from Belgium. Says he lost a few million in stock trading so he's taking some time off in Tokyo. Very nice guy :)
 
-img-30:	
-cap-30:	
+img-30:	img_4755.jpg
+cap-30:	On my way home. Half conscious. 
 
-img-31:	
-cap-31:	
+img-31:	img_4757.jpg
+cap-31:	Disgruntled. Found my way to Morishita Station (close to where I live).. still got lost. 
 
-img-32:	
-cap-32:	
+img-32:	img_4759.jpg
+cap-32:	Managed to get some breakfast with the change I have left from the night (¥160, ~$1.60)
 
 img-33:	
 cap-33:	

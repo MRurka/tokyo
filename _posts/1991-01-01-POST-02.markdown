@@ -9,66 +9,66 @@ date: 2015-10-1 23:55:55
 title:  "Day 2"
 subtitle: "Beautiful Garden, Expensive Bottle"
 
-thumb:	
+thumb:	img_4675-0.jpg
 
-img-1:	
+img-1:	img_4664.jpg
 cap-1:	
 
-img-2:	
+img-2:	img_4665.jpg
 cap-2:	
 
-img-3:	
+img-3:	img_4666.jpg
 cap-3: 	
 
-img-4:	
+img-4:	img_4667.jpg
 cap-4:	
 
-img-5:	
+img-5:	img_4672.jpg
 cap-5:	
 
-img-6:	
+img-6:	img_4668.jpg
 cap-6:	
 
-img-7:	
+img-7:	img_4669.jpg
 cap-7:	
 
-img-8:	
+img-8:	img_4674.jpg
 cap-8:	
 
-img-9:	
+img-9:	img_4655-0.jpg
 cap-9:	
 
-img-10:	
+img-10:	img_4681.jpg
 cap-10:	
 
-img-11:	
+img-11:	img_4682.jpg
 cap-11:	
 
-img-12:	
+img-12:	img_4677.jpg
 cap-12:	
 
-img-13:	
+img-13:	img_4680.jpg
 cap-13:	
 
-img-14:	
+img-14:	img_4678.jpg
 cap-14:	
 
-img-15:	
+img-15:	img_4679.jpg
 cap-15:	
 
-img-16:	
+img-16:	img_4676.jpg
 cap-16:	
 
-img-17:	
+img-17:	img_4670.jpg
 cap-17:	
 
-img-18:	
+img-18:	img_4673.jpg
 cap-18:	
 
-img-19:	
+img-19:	img_4671.jpg
 cap-19:	
 
-img-20:	
+img-20:	img_4668.jpg
 cap-20:	
 
 img-21:	

@@ -53,25 +53,25 @@ cap-13:	Stumbled upon a park on my way to the big park.
 img-14:	img_4883.jpg
 cap-14:	
 
-img-15:	img_4884.jpg
+img-15:	img_4865.jpg
 cap-15:	
 
 img-16:	img_4878.jpg
 cap-16:	This is the big park :)
 
-img-17:	
-cap-17:	
+img-17:	img_4879.jpg
+cap-17:	Bridge 
 
-img-18:	
-cap-18:	
+img-18:	img_4880.jpg
+cap-18:	Bridge is marked with a 3000 feet starting line.
 
-img-19:	
+img-19:	img_4882.jpg
 cap-19:	
 
-img-20:	
-cap-20:	
+img-20:	img_4876.jpg
+cap-20:	Went grocery shopping a bit.
 
-img-21:	
+img-21:	img_4875.jpg
 cap-21:	
 
 img-22:	

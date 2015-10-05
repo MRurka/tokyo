@@ -4,60 +4,60 @@ layout: gallery
 categories: portfolio
 month-number: 10
 
-date: 2015-10-1 23:55:55
+date: 2015-10-05 23:55:55
 
-title:  " "
-subtitle: " "
+title:  "Day 4"
+subtitle: "Sinking In"
 
 thumb:	
 
-img-1:	
-cap-1:	
+img-1:	img_4892.jpg
+cap-1:	Morning Run. 
 
-img-2:	
-cap-2:	
+img-2:	img_4891.jpg
+cap-2:	Decorated paths all along the canal. I was hardly alone. Many others running or walking their dogs (most with cute little coats).
 
-img-3:	
-cap-3: 	
+img-3:	img_4894.jpg
+cap-3: 	Beautiful tile work along the path.
 
-img-4:	
+img-4:	img_4801.jpg
 cap-4:	
 
-img-5:	
+img-5:	img_4895.jpg
 cap-5:	
 
-img-6:	
+img-6:	img_4890.jpg
 cap-6:	
 
-img-7:	
-cap-7:	
+img-7:	img_4893.jpg
+cap-7:	This is the reason I am here. わかりますか
 
-img-8:	
-cap-8:	
+img-8:	img_4885.jpg
+cap-8:	The apple store of cafes: Bule Bottle Cafe.
 
-img-9:	
-cap-9:	
+img-9:	img_4886.jpg
+cap-9:	I embarrassed myself greeting the kind lady with "thank you" as opposed to "hello". 
 
-img-10:	
-cap-10:	
+img-10:	img_4887.jpg
+cap-10: 
 
-img-11:	
+img-11:	img_4888.jpg
 cap-11:	
 
-img-12:	
-cap-12:	
+img-12:	img_4889.jpg
+cap-12:	To shed more light on my ignorance. I was amazed to the subject array of work done. Most of which I would've never thought of, simply by a lack of knowledge on the world and its sometimes unfortunate intricacies. It's nice to see sincere work with the aim to improve the world, one project at a time. 
 
-img-13:	
-cap-13:	
+img-13:	img_4881.jpg
+cap-13:	Stumbled upon a park on my way to the big park. 
 
-img-14:	
+img-14:	img_4883.jpg
 cap-14:	
 
-img-15:	
+img-15:	img_4884.jpg
 cap-15:	
 
-img-16:	
-cap-16:	
+img-16:	img_4878.jpg
+cap-16:	This is the big park :)
 
 img-17:	
 cap-17:	

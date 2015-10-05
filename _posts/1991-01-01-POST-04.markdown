@@ -33,7 +33,7 @@ img-7:	img_4893.jpg
 cap-7:	This is the reason I am here.
 
 img-8:	img_4885.jpg
-cap-8:	The apple store of cafes: Bule Bottle Cafe.
+cap-8:	The apple store of cafes= Bule Bottle Cafe.
 
 img-9:	img_4886.jpg
 cap-9:	I embarrassed myself greeting the kind lady with "thank you" as opposed to "hello". 

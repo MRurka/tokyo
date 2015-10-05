@@ -57,7 +57,7 @@ img-15:	img_4865.jpg
 cap-15:	
 
 img-16:	img_4878.jpg
-cap-16:	This is the big park :)
+cap-16:	This is the big park =)
 
 img-17:	img_4879.jpg
 cap-17:	Bridge 

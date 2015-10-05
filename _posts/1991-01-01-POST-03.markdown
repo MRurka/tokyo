@@ -23,7 +23,7 @@ cap-3: 	People fishing in the Onakigawa canal
 img-4:	img_4691.jpg
 cap-4:	These little tile accents are everywhere in this neighbourhood. All different.
 
-img-5:	img_4690.jpg
+img-5:	img_4690-1.jpg
 cap-5:	Someone said "Tallest TV tower in the world"
 
 img-6:	img_4689.jpg

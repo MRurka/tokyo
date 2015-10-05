@@ -74,8 +74,8 @@ cap-20:	Went grocery shopping a bit.
 img-21:	img_4875.jpg
 cap-21:	
 
-img-22:	
-cap-22:	
+img-22:	img_4896.jpg
+cap-22:	Hosts say it smelled good! The married couple, he is a JS developer and she is an artist/designer. 
 
 img-23:	
 cap-23:	

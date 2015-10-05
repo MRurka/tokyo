@@ -9,7 +9,7 @@ date: 2015-10-05 23:55:55
 title:  "Day 4"
 subtitle: "Sinking In"
 
-thumb:	
+thumb:	img_4892.jpg
 
 img-1:	img_4892.jpg
 cap-1:	Morning Run. 

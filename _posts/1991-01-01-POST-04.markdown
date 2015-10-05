@@ -30,7 +30,7 @@ img-6:	img_4890.jpg
 cap-6:	
 
 img-7:	img_4893.jpg
-cap-7:	This is the reason I am here. わかりますか
+cap-7:	This is the reason I am here.
 
 img-8:	img_4885.jpg
 cap-8:	The apple store of cafes: Bule Bottle Cafe.

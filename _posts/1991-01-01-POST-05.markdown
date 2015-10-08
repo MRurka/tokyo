@@ -17,7 +17,7 @@ cap-1:	Made breakfast
 img-2:	img_5102.jpg
 cap-2:	Went to MOT, Museum of Contemporary Art
 
-img-3:	img__5103.jpg
+img-3:	img_5103.jpg
 cap-3: 	Couldn't take photos in the actual exhibit area though =(
 
 img-4:	img_5104.jpg
@@ -60,7 +60,7 @@ img-16:	img_5116.jpg
 cap-16:	
 
 img-17:	img_5117.jpg
-cap-17:	Great Coffee + Pancake Cafe 
+cap-17:	Great Coffee + Pancake Cafe with Saki =)
 
 img-18:	img_5119.jpg
 cap-18:	

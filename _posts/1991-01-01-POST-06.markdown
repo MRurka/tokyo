@@ -41,23 +41,23 @@ cap-9:
 img-10:	img_5225.jpg
 cap-10:	Was tremendously easy getting to point B
 
-img-11:	
+img-11:	img_5229.jpg
 cap-11:	
 
-img-12:	
-cap-12:	
+img-12:	img_5228.jpg
+cap-12:	Was legit half luck that I found the place. Had a decent idea in which direction it was, screenshots and technically the wrong address. 
 
-img-13:	
-cap-13:	
+img-13:	img_5230.jpg
+cap-13:	Went exploring with a new friend I met, also staying at The CUBE.
 
-img-14:	
-cap-14:	
+img-14:	img_5231.jpg
+cap-14:	Second floor balcony view from restaurant.
 
-img-15:	
-cap-15:	
+img-15:	img_5232.jpg
+cap-15:	third floor rooftop balcony!
 
-img-16:	
-cap-16:	
+img-16:	img_5233.jpg
+cap-16:	Nachos with Hyewon
 
 img-17:	
 cap-17:	

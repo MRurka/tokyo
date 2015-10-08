@@ -9,7 +9,7 @@ date: 2015-10-07 23:55:55
 title:  "Day 6"
 subtitle: "Seoul. Restart."
 
-thumb:	img_5233.jpg
+thumb:	img_5239.jpg
 
 img-1:	img_5218.jpg
 cap-1:	Breakfast + kids shows to help out my Japanese. 
@@ -56,8 +56,8 @@ cap-14:	Second floor balcony view from restaurant.
 img-15:	img_5232.jpg
 cap-15:	third floor rooftop balcony!
 
-img-16:	img_5233.jpg
-cap-16:	Nachos with Hyewon
+img-16:	img_5239.jpg
+cap-16:	Nachos with Hyewon! The salsa was literally pizza sauce. The sour cream was like if they'd let the sour cream gone sour.. But the cheese dip was good! 
 
 img-17:	
 cap-17:	

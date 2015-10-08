@@ -60,24 +60,24 @@ img-16:	img_5116.jpg
 cap-16:	
 
 img-17:	img_5117.jpg
-cap-17:	
+cap-17:	Great Coffee + Pancake Cafe 
 
 img-18:	img_5119.jpg
 cap-18:	
 
 img-19:	img_5118.jpg
-cap-19:	
+cap-19:	Saki's friend, Hikaru, met up with us.
 
-img-20:	
+img-20:	img_5120.jpg
 cap-20:	
 
-img-21:	
+img-21:	img_5129.jpg
 cap-21:	
 
-img-22:	
+img-22:	img_5130.jpg
 cap-22:	
 
-img-23:	
+img-23:	img_5128.jpg
 cap-23:	
 
 img-24:	

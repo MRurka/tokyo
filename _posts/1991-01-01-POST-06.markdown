@@ -6,28 +6,28 @@ month-number: 10
 
 date: 2015-10-1 23:55:55
 
-title:  " "
-subtitle: " "
+title:  "Day 6"
+subtitle: "Seoul. Restart."
 
 thumb:	
 
-img-1:	
-cap-1:	
+img-1:	img_5218.jpg
+cap-1:	Breakfast + kids shows to help out my Japanese. 
 
-img-2:	
-cap-2:	
+img-2:	img_5219.jpg
+cap-2:	Bus ride to Narita Airport. About an hour away. 
 
-img-3:	
+img-3:	img_5220.jpg
 cap-3: 	
 
-img-4:	
+img-4:	img_5221.jpg
 cap-4:	
 
-img-5:	
-cap-5:	
+img-5:	img_5222.jpg
+cap-5:	Those damn American foreigners.
 
-img-6:	
-cap-6:	
+img-6:	img_5237.jpg
+cap-6:	The plane from Tokyo to Seoul!
 
 img-7:	
 cap-7:	

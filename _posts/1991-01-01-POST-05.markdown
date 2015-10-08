@@ -4,7 +4,7 @@ layout: gallery
 categories: portfolio
 month-number: 10
 
-date: 2015-10-1 23:55:55
+date: 2015-10-6 23:55:55
 
 title:  "Day 5"
 subtitle: "Last Day Tokyo"
@@ -80,20 +80,20 @@ cap-22:
 img-23:	img_5128.jpg
 cap-23:	
 
-img-24:	
-cap-24:	
+img-24:	img_5126.jpg
+cap-24:	Purikura (Photo booth) is THE thing in Tokyo. But one like no other.. 
 
-img-25:	
+img-25:	img_5122.jpg
 cap-25:	
 
-img-26:	
+img-26:	img_5123.jpg
 cap-26:	
 
-img-27:	
+img-27:	img_5124.jpg
 cap-27:	
 
-img-28:	
-cap-28:	
+img-28:	img_5125.jpg
+cap-28:	Kawaii, yes.
 
 img-29:	
 cap-29:	

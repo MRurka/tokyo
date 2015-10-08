@@ -24,22 +24,22 @@ img-4:	img_5221.jpg
 cap-4:	
 
 img-5:	img_5222.jpg
-cap-5:	Those damn American foreigners.
+cap-5:	Damn American foreigners.
 
 img-6:	img_5237.jpg
 cap-6:	The plane from Tokyo to Seoul!
 
-img-7:	
-cap-7:	
+img-7:	img_5224.jpg
+cap-7:	2 hour flight. Felt like a boss. Love airplane food <3
 
-img-8:	
-cap-8:	
+img-8:	img_5226.jpg
+cap-8:	Pretty massive airport.. 
 
-img-9:	
+img-9:	img_5227.jpg
 cap-9:	
 
-img-10:	
-cap-10:	
+img-10:	img_5225.jpg
+cap-10:	Was tremendously easy getting to point B
 
 img-11:	
 cap-11:	

@@ -9,7 +9,7 @@ date: 2015-10-1 23:55:55
 title:  "Day 5"
 subtitle: "Last Day Tokyo"
 
-thumb:	
+thumb:	img_5118-0.jpg
 
 img-1:	img_5101.jpg
 cap-1:	Made breakfast

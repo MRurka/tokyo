@@ -30,7 +30,7 @@ img-6:	img_5237.jpg
 cap-6:	The plane from Tokyo to Seoul!
 
 img-7:	img_5224.jpg
-cap-7:	2 hour flight. Felt like a boss. Love airplane food <3
+cap-7:	2 hour flight. Felt like a boss. Love airplane food so far.
 
 img-8:	img_5226.jpg
 cap-8:	Pretty massive airport.. 

@@ -9,7 +9,7 @@ date: 2015-10-1 23:55:55
 title:  "Day 6"
 subtitle: "Seoul. Restart."
 
-thumb:	
+thumb:	img_5233.jpg
 
 img-1:	img_5218.jpg
 cap-1:	Breakfast + kids shows to help out my Japanese. 

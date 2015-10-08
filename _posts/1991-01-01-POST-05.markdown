@@ -18,7 +18,7 @@ img-2:	img_5102.jpg
 cap-2:	Went to MOT, Museum of Contemporary Art
 
 img-3:	img__5103.jpg
-cap-3: 	
+cap-3: 	Couldn't take photos in the actual exhibit area though =(
 
 img-4:	img_5104.jpg
 cap-4:	

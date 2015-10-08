@@ -50,22 +50,22 @@ cap-12:
 img-13:	img_5113.jpg
 cap-13:	
 
-img-14:	
-cap-14:	
+img-14:	img_5114.jpg
+cap-14:	Got introduced to Shibuya district!
 
-img-15:	
+img-15:	img_5115.jpg
 cap-15:	
 
-img-16:	
+img-16:	img_5116.jpg
 cap-16:	
 
-img-17:	
+img-17:	img_5117.jpg
 cap-17:	
 
-img-18:	
+img-18:	img_5119.jpg
 cap-18:	
 
-img-19:	
+img-19:	img_5118.jpg
 cap-19:	
 
 img-20:	

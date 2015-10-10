@@ -6,8 +6,8 @@ month-number: 10
 
 date: 2015-10-1 23:55:55
 
-title:  " "
-subtitle: " "
+title:  "Day 9"
+subtitle: "Tremors"
 
 thumb:	
 
@@ -133,4 +133,4 @@ cap-40:
 
 ---
 
-
+I've not done anything today. Woke up on the couch, i think. Haven't stopped shaking yet, and it's 5:00PM. Two nights in a row, ending at around 5:00AM, with little sleep might be taking its toll. Feel dizzy, like I'm okay, but clumsy, perpetual tipsy feeling. Supposed to meet some friends at Thursday Party at midnught. I've not decided yet. Headed to the grocery store. 

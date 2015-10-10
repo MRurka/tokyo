@@ -7,9 +7,9 @@ month-number: 10
 date: 2015-10-8 23:55:55
 
 title:  "Day 7"
-subtitle: " "
+subtitle: "Soju and American"
 
-thumb:	
+thumb:	img_5321.jpg
 
 img-1:	img_5460.jpg
 cap-1:	Breakfast with Hyewon. Her family eats egg + jam sandwiches. Was surprisingly very tasty! No ketchup.. 
@@ -41,43 +41,43 @@ cap-9:
 img-10:	img_5325.jpg
 cap-10:	
 
-img-11:	
-cap-11:	
+img-11:	img_5461.jpg
+cap-11:	Went exploring Itaewon 
 
-img-12:	
+img-12:	img_5462.jpg
 cap-12:	
 
-img-13:	
+img-13:	img_5463.jpg
 cap-13:	
 
-img-14:	
+img-14:	img_5434.jpg
 cap-14:	
 
-img-15:	
+img-15:	img_5435.jpg
 cap-15:	
 
-img-16:	
+img-16:	img_5436.jpg
 cap-16:	
 
-img-17:	
+img-17:	img_5437.jpg
 cap-17:	
 
-img-18:	
+img-18:	img_5438.jpg
 cap-18:	
 
-img-19:	
+img-19:	img_5439.jpg
 cap-19:	
 
-img-20:	
+img-20:	img_5440.jpg
 cap-20:	
 
-img-21:	
+img-21:	img_5441.jpg
 cap-21:	
 
-img-22:	
+img-22:	img_5442.jpg
 cap-22:	
 
-img-23:	
+img-23:	img_5443.jpg
 cap-23:	
 
 img-24:	
@@ -133,4 +133,4 @@ cap-40:
 
 ---
 
-
+Testing.

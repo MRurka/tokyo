@@ -4,41 +4,41 @@ layout: gallery
 categories: portfolio
 month-number: 10
 
-date: 2015-10-1 23:55:55
+date: 2015-10-8 23:55:55
 
-title:  " "
+title:  "Day 7"
 subtitle: " "
 
 thumb:	
 
-img-1:	
-cap-1:	
+img-1:	img_5460.jpg
+cap-1:	Breakfast with Hyewon. Her family eats egg + jam sandwiches. Was surprisingly very tasty! No ketchup.. 
 
-img-2:	
-cap-2:	
+img-2:	img_5318.jpg
+cap-2:	She had some time to kill before her University application interview so we went on a promenade just up the hill.
 
-img-3:	
+img-3:	img_5323.jpg
 cap-3: 	
 
-img-4:	
-cap-4:	
+img-4:	img_5485.jpg
+cap-4:	Hardly does justice. Truly breathtaking.
 
-img-5:	
-cap-5:	
+img-5:	img_5320.jpg
+cap-5:	So shy
 
-img-6:	
+img-6:	img_5322.jpg
 cap-6:	
 
-img-7:	
-cap-7:	
+img-7:	img_5319.jpg
+cap-7:	Super nice houses, rich houses. Lots of embassies too! Saw Thai, and Indian embassy. 
 
-img-8:	
+img-8:	img_5321.jpg
 cap-8:	
 
-img-9:	
+img-9:	img_5324.jpg
 cap-9:	
 
-img-10:	
+img-10:	img_5325.jpg
 cap-10:	
 
 img-11:	

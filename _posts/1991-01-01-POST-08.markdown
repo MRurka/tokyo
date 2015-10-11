@@ -4,105 +4,105 @@ layout: gallery
 categories: portfolio
 month-number: 10
 
-date: 2015-10-1 23:55:55
+date: 2015-10-9 23:55:55
 
-title:  " "
-subtitle: " "
+title:  "Day 8"
+subtitle: "DDP and Drinks"
 
-thumb:	
+thumb:	img_5539.jpg
 
-img-1:	
-cap-1:	
+img-1:	img_5528.jpg
+cap-1:	Checked out DDP today with Dachau and his girlfriend!
 
-img-2:	
-cap-2:	
+img-2:	img_5529.jpg
+cap-2:	The struggle is real
 
-img-3:	
+img-3:	img_5530.jpg
 cap-3: 	
 
-img-4:	
+img-4:	img_5531.jpg
 cap-4:	
 
-img-5:	
+img-5:	img_5532.jpg
 cap-5:	
 
-img-6:	
+img-6:	img_5533.jpg
 cap-6:	
 
-img-7:	
+img-7:	img_5534.jpg
 cap-7:	
 
-img-8:	
+img-8:	img_5535.jpg
 cap-8:	
 
-img-9:	
+img-9:	img_5536.jpg
 cap-9:	
 
-img-10:	
+img-10:	img_5537.jpg
 cap-10:	
 
-img-11:	
+img-11:	img_5538.jpg
 cap-11:	
 
-img-12:	
+img-12:	img_5539.jpg
 cap-12:	
 
-img-13:	
+img-13:	img_5540.jpg
 cap-13:	
 
-img-14:	
+img-14:	img_5541.jpg
 cap-14:	
 
-img-15:	
+img-15:	img_5542.jpg
 cap-15:	
 
-img-16:	
+img-16:	img_5543.jpg
 cap-16:	
 
-img-17:	
-cap-17:	
+img-17:	img_5544.jpg
+cap-17:	Daechan and I on our way to the river!
 
-img-18:	
+img-18:	img_5545.jpg
 cap-18:	
 
-img-19:	
+img-19:	img_5546.jpg
 cap-19:	
 
-img-20:	
+img-20:	img_5547.jpg
 cap-20:	
 
-img-21:	
+img-21:	img_5548.jpg
 cap-21:	
 
-img-22:	
+img-22:	img_5549.jpg
 cap-22:	
 
-img-23:	
-cap-23:	
+img-23:	img_5550.jpg
+cap-23:	Just a bunch of kids (including myself) drinking. People pitch tents, drink, party and sleep by the river. 
 
-img-24:	
+img-24:	img_5551.jpg
 cap-24:	
 
-img-25:	
+img-25:	img_5553.jpg
 cap-25:	
 
-img-26:	
+img-26:	img_5554.jpg
 cap-26:	
 
-img-27:	
+img-27:	img_5555.jpg
 cap-27:	
 
-img-28:	
+img-28:	img_5556.jpg
 cap-28:	
 
-img-29:	
+img-29:	img_5557.jpg
 cap-29:	
 
-img-30:	
-cap-30:	
+img-30:	img_5558.jpg
+cap-30:	Good guy from Toronto, or Montreal.
 
-img-31:	
-cap-31:	
+img-31:	img_5559.jpg
+cap-31:	Danced all the night until 5am
 
 img-32:	
 cap-32:	

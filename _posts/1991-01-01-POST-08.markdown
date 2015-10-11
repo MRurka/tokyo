@@ -96,13 +96,13 @@ img-28:	img_5556.jpg
 cap-28:	
 
 img-29:	img_5557.jpg
-cap-29:	
+cap-29:	Good guy from Toronto! 
 
 img-30:	img_5558.jpg
-cap-30:	Good guy from Toronto, or Montreal.
+cap-30:	Danced all the night, 5AM
 
-img-31:	img_5559.jpg
-cap-31:	Danced all the night until 5am
+img-31:	
+cap-31:	
 
 img-32:	
 cap-32:	

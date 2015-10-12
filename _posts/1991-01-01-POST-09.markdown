@@ -4,10 +4,10 @@ layout: gallery
 categories: portfolio
 month-number: 10
 
-date: 2015-10-1 23:55:55
+date: 2015-10-10 23:55:55
 
 title:  "Day 9"
-subtitle: "Tremors"
+subtitle: "Tremors And Dance"
 
 thumb:	
 
@@ -42,19 +42,19 @@ img-10:	img_5637.jpg
 cap-10:	
 
 img-11:	img_5638.jpg
-cap-11:	
+cap-11:	The regular spot 
 
 img-12:	img_5639.jpg
-cap-12:	
+cap-12:	Thought it was a wrap 
 
 img-13:	img_5640.jpg
-cap-13:	
+cap-13:	And it sort of was.. Also decently tasty!
 
 img-14:	img_5641.jpg
 cap-14:	
 
 img-15:	img_5642.jpg
-cap-15:	
+cap-15:	Went back to that Owl bar. I was the only white guy there, but still went well. Dancing is the way in. Especially when you can't really speak to anyone.. Lol
 
 img-16:	img_5643.jpg
 cap-16:	

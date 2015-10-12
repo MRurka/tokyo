@@ -11,61 +11,61 @@ subtitle: "Tremors"
 
 thumb:	
 
-img-1:	
-cap-1:	
+img-1:	img_5628.jpg
+cap-1:	Where I inadvertently fall asleep almost every night -.- 
 
-img-2:	
-cap-2:	
+img-2:	img_5629.jpg
+cap-2:	Met these great great men. Dentist (?), Army General, Soldier. Left to right. 
 
-img-3:	
-cap-3: 	
+img-3:	img_5630.jpgg
+cap-3: 	Very kind girls :)
 
-img-4:	
-cap-4:	
+img-4:	img_5631.jpg
+cap-4:	First bar I went before Thursday Party. Owl something. Super empty -.-
 
-img-5:	
+img-5:	img_5632.jpg
 cap-5:	
 
-img-6:	
-cap-6:	
+img-6:	img_5633.jpgg
+cap-6:	At Thursday Party, again
 
-img-7:	
+img-7:	img_5634.jpgg
 cap-7:	
 
-img-8:	
-cap-8:	
+img-8:	img_5635.jpgg
+cap-8:	Kolton,... 
 
-img-9:	
+img-9:	img_5636.jpgg
 cap-9:	
 
-img-10:	
+img-10:	img_5637.jpg
 cap-10:	
 
-img-11:	
+img-11:	img_5638.jpg
 cap-11:	
 
-img-12:	
+img-12:	img_5639.jpg
 cap-12:	
 
-img-13:	
+img-13:	img_5640.jpg
 cap-13:	
 
-img-14:	
+img-14:	img_5641.jpg
 cap-14:	
 
-img-15:	
+img-15:	img_5642.jpg
 cap-15:	
 
-img-16:	
+img-16:	img_5643.jpg
 cap-16:	
 
-img-17:	
+img-17:	img_5644.jpg
 cap-17:	
 
-img-18:	
+img-18:	img_5645.jpg
 cap-18:	
 
-img-19:	
+img-19:	img_5646.jpg
 cap-19:	
 
 img-20:	

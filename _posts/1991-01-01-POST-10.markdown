@@ -90,7 +90,7 @@ img-26:	img_5676.jpg
 cap-26:	
 
 img-27:	img_5677.jpg
-cap-27:	Girl with translator, peach soju, brother not brother, phone dead, home, disappear. 
+cap-27:	Girl with translator, peach soju, brother not brother, phone dead, home, disappear. Lesson learnt-- sometimes too much talk, sometimes too much nice, sometimes too much not decide, sometimes too much pointless. 
 
 img-28:	
 cap-28:	

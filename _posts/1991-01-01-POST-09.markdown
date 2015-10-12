@@ -7,7 +7,7 @@ month-number: 10
 date: 2015-10-10 23:55:55
 
 title:  "Day 9"
-subtitle: "Tremors And Dancing"
+subtitle: "Tremors"
 
 thumb:	img_5649-0.jpg
 

@@ -6,60 +6,60 @@ month-number: 10
 
 date: 2015-10-1 23:55:55
 
-title:  " "
-subtitle: " "
+title:  "Day 11"
+subtitle: "Tears in the Street"
 
 thumb:	
 
-img-1:	
-cap-1:	
+img-1:	img_5940.jpg
+cap-1:	Just went exploring around Itaewon
 
-img-2:	
+img-2:	img_5941.jpg
 cap-2:	
 
-img-3:	
+img-3:	img_5945.jpg
 cap-3: 	
 
-img-4:	
+img-4:	img_5946.jpg
 cap-4:	
 
-img-5:	
+img-5:	img_5947.jpg
 cap-5:	
 
-img-6:	
+img-6:	img_5948.jpg
 cap-6:	
 
-img-7:	
+img-7:	img_5949.jpg
 cap-7:	
 
-img-8:	
-cap-8:	
+img-8:	img_5950.jpg
+cap-8:	This overpass, teared up a little. Things matter now, and in the moment I felt genuinely happy. Have not felt such way in a long time. 
 
-img-9:	
+img-9:	img_5951.jpg
 cap-9:	
 
-img-10:	
+img-10:	img_5952.jpg
 cap-10:	
 
-img-11:	
+img-11:	img_5953.jpg
 cap-11:	
 
-img-12:	
+img-12:	img_5954.jpg
 cap-12:	
 
-img-13:	
+img-13:	img_5955.jpg
 cap-13:	
 
-img-14:	
-cap-14:	
+img-14:	img_5956.jpg
+cap-14:	Met these wonderful individuals. Girl teacher, and Nino from Singapore. We hung out all night and had spicy chicken feet. It was.. Spicy. 
 
-img-15:	
+img-15:	img_5957.jpg
 cap-15:	
 
-img-16:	
+img-16:	img_5958.jpg
 cap-16:	
 
-img-17:	
+img-17:	img_5959.jpg
 cap-17:	
 
 img-18:	
@@ -134,3 +134,5 @@ cap-40:
 ---
 
 We cried in the alley. She truly cares about her students. 
+
+Show and tell, English and Chinese. 

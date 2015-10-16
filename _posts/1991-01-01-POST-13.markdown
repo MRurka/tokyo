@@ -39,7 +39,7 @@ img-9:	img_6051.jpg
 cap-9:	
 
 img-10:	img_6052.jpg
-cap-10:	Rooftop parties?? 24-7
+cap-10:	Rooftop parties 24-7
 
 img-11:	img_6053.jpg
 cap-11:	Exploring around Hongdae, youth central. Many high school and Uni students. 

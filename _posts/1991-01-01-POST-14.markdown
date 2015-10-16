@@ -4,81 +4,81 @@ layout: gallery
 categories: portfolio
 month-number: 10
 
-date: 2015-10-1 23:55:55
+date: 2015-10-15 23:55:55
 
-title:  " "
-subtitle: " "
+title:  "Day 14"
+subtitle: "French Sienna"
 
 thumb:	
 
-img-1:	
-cap-1:	
+img-1:	img_6074.jpg
+cap-1:	My bed
 
-img-2:	
-cap-2:	
+img-2:	img_6076.jpg
+cap-2:	12 Beds (6 bunks)
 
-img-3:	
-cap-3: 	
+img-3:	img_6077.jpg
+cap-3: 	Living space. TV perpetually connected to YouTube.
 
-img-4:	
-cap-4:	
+img-4:	img_6078.jpg
+cap-4:	Gothic Oriental fusion
 
-img-5:	
+img-5:	img_6079.jpg
 cap-5:	
 
-img-6:	
-cap-6:	
+img-6:	img_6080.jpg
+cap-6:	Hongik Unuversity
 
-img-7:	
+img-7:	img_6081.jpg
 cap-7:	
 
-img-8:	
+img-8:	img_6082.jpg
 cap-8:	
 
-img-9:	
-cap-9:	
+img-9:	img_6083.jpg
+cap-9:	Graduate exhibition, Urban Planning and Design. These guys know their shit.
 
-img-10:	
-cap-10:	
+img-10:	img_6084.jpg
+cap-10:	Gifts are left by the art piece for the  student. 
 
-img-11:	
+img-11:	img_6085.jpg
 cap-11:	
 
-img-12:	
-cap-12:	
+img-12:	img_6086.jpg
+cap-12:	Random photo request 
 
 img-13:	
 cap-13:	
 
-img-14:	
+img-14:	img_6088.jpg
 cap-14:	
 
-img-15:	
-cap-15:	
+img-15:	img_6089.jpg
+cap-15:	Cheesecake and coffee "date" with Sienna
 
-img-16:	
-cap-16:	
+img-16:	img_6090.jpg
+cap-16:	French Cafe, Americano, cheesecakes. Touted as one of the best. And no doubt. It was Ma Shi Seyo.
 
-img-17:	
-cap-17:	
+img-17:	img_6091.jpg
+cap-17:	Walked around and about for over an hour
 
-img-18:	
-cap-18:	
+img-18:	img_6092.jpg
+cap-18:	Found a Line merchandise store. Line is a chat app like Kakao, but merely a competitor. 
 
-img-19:	
-cap-19:	
+img-19:	img_6093.jpg
+cap-19:	Bear being their main mascot.
 
-img-20:	
-cap-20:	
+img-20:	img_6094.jpg
+cap-20:	This is a hospital.. 
 
-img-21:	
-cap-21:	
+img-21:	img_6095.jpg
+cap-21:	Just a badass cafe, taking open patio to the next level.
 
-img-22:	
-cap-22:	
+img-22:	img_6096.jpg
+cap-22:	Found a pub for a second snack! Fries were delicious. And so was the Max beer. Was like a white Guinness. The foam was, anyway. Taught Sienna lots of French. She's dope.
 
-img-23:	
-cap-23:	
+img-23:	img_6097.jpg
+cap-23:	This picture is from Itaewon, a while back. It's a stickon paper. Awesome art.
 
 img-24:	
 cap-24:	

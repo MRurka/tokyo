@@ -78,7 +78,7 @@ img-22:	img_6063.jpg
 cap-22:	
 
 img-23:	img_6064.jpg
-cap-23:	Met another American! (American2). He's living in japan.. I said this in the last post. Got my days mixed up. 
+cap-23:	Met another American! -American2-. He's living in japan.. I said this in the last post. Got my days mixed up. 
 
 img-24:	img_6065.jpg
 cap-24:	Met some chums, we shared drinks and food. Very kind guys.

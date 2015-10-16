@@ -12,16 +12,16 @@ subtitle: "British Jane"
 thumb:	img_6046.jpg
 
 img-1:	img_6043.jpg
-cap-1:	Invincible and free
+cap-1:	"Invincible and free"
 
 img-2:	img_6044.jpg
 cap-2:	
 
 img-3:	img_6045.jpg
-cap-3: 	Tom n Tom coffee with Jane. She taught herself English. Specifically British English. Was a surprise because all other Koreans spoke very American English.
+cap-3: 	"Tom n Tom coffee with Jane. She taught herself English. Specifically British English. Was a surprise because all other Koreans spoke very American English."
 
 img-4:	img_6046.jpg
-cap-4:	First time in Dunkin Donuts. Thanks to Jane.
+cap-4:	"First time in Dunkin Donuts. Thanks to Jane."
 
 img-5:	img_6047.jpg
 cap-5:	
@@ -30,7 +30,7 @@ img-6:	img_6048.jpg
 cap-6:	
 
 img-7:	img_6049.jpg
-cap-7:	The new place! I think I got here today, maybe not yesterday. This day. Not yesterday. Day 13, not day 12.
+cap-7:	"The new place! I think I got here today, maybe not yesterday. This day. Not yesterday. Day 13, not day 12."
 
 img-8:	img_6050.jpg
 cap-8:	
@@ -39,10 +39,10 @@ img-9:	img_6051.jpg
 cap-9:	
 
 img-10:	img_6052.jpg
-cap-10:	Rooftop parties 24-7
+cap-10:	"Rooftop parties 24-7"
 
 img-11:	img_6053.jpg
-cap-11:	Exploring around Hongdae, youth central. Many high school and Uni students. 
+cap-11:	"Exploring around Hongdae, youth central. Many high school and Uni students. "
 
 img-12:	img_6054.jpg
 cap-12:	
@@ -78,16 +78,16 @@ img-22:	img_6063.jpg
 cap-22:	
 
 img-23:	img_6064.jpg
-cap-23:	Met another American! -American2-. He's living in japan.. I said this in the last post. Got my days mixed up. 
+cap-23:	"Met another American! -American2-. He's living in japan.. I said this in the last post. Got my days mixed up. "
 
 img-24:	img_6065.jpg
-cap-24:	Met some chums, we shared drinks and food. Very kind guys.
+cap-24:	"Met some chums, we shared drinks and food. Very kind guys."
 
 img-25:	img_6066.jpg
-cap-25:	Busker central, every day every night, drinking out and about. 
+cap-25:	"Busker central, every day every night, drinking out and about"
 
 img-26:	img_6067.jpg
-cap-26:	Cocoon was the most intense yet.. In terms of audio levels. You literally feel each beat in your soul, chest, heart and brain. Too loud.. But immersive. Music is intense too. Went with the American2.
+cap-26:	"Cocoon was the most intense yet.. In terms of audio levels. You literally feel each beat in your soul, chest, heart and brain. Too loud.. But immersive. Music is intense too. Went with the American2."
 
 img-27:	img_6068.jpg
 cap-27:	
@@ -102,7 +102,7 @@ img-30:	img_6071.jpg
 cap-30:	
 
 img-31:	img_6072.jpg
-cap-31:	Best food after soju.
+cap-31:	"Best food after soju."
 
 img-32:	
 cap-32:	

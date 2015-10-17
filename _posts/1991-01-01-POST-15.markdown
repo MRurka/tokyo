@@ -12,13 +12,13 @@ subtitle: "T-34 and M2"
 thumb:	
 
 img-1:	img_6042.jpg
-cap-1:	
+cap-1:	Found a little restaurant on our way to The War Museum 
 
 img-2:	img_6193.jpg
-cap-2:	
+cap-2:	Soup cute cat 
 
 img-3:	img_6194.jpg
-cap-3: 	
+cap-3: 	Delicious and cheap.
 
 img-4:	img_6195.jpg
 cap-4:	
@@ -84,7 +84,7 @@ img-24:	img_6215.jpg
 cap-24:	
 
 img-25:	img_6216.jpg
-cap-25:	
+cap-25:	Met at the Hostel 
 
 img-26:	img_6217.jpg
 cap-26:	
@@ -96,13 +96,13 @@ img-28:	img_6219.jpg
 cap-28:	
 
 img-29:	img_6220.jpg
-cap-29:	
+cap-29:	Very strange jam sandwich 
 
 img-30:	img_6221.jpg
 cap-30:	
 
 img-31:	img_6222.jpg
-cap-31:	
+cap-31:	Famous guy, they say
 
 img-32:	img_6223.jpg
 cap-32:	
@@ -114,7 +114,7 @@ img-34:	img_6225.jpg
 cap-34:	
 
 img-35:	img_6226.jpg
-cap-35:	
+cap-35:	The walk of shame 
 
 img-36:	
 cap-36:	

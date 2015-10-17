@@ -9,7 +9,7 @@ date: 2015-10-16 23:55:55
 title:  "Day 15"
 subtitle: "T-34 and M2"
 
-thumb:	
+thumb:	img_6210.jpg
 
 img-1:	img_6042.jpg
 cap-1:	Found a little restaurant on our way to The War Museum 

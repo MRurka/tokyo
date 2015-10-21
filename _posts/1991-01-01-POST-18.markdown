@@ -21,22 +21,22 @@ img-3:	img_6690.jpg
 cap-3: 	
 
 img-4:	img_6691.jpg
-cap-4:	They took a tiny shaver and blade to exaggerate my hair line. A style here.
+cap-4:	
 
 img-5:	img_6692.jpg
-cap-5:	The tattoo shop Aaron suggested, the first American I met on my second say in Seoul. Almost didn't go in the end.
+cap-5:	They took a tiny shaver and blade to exaggerate my hair line. A style here.
 
 img-6:	img_6693.jpg
-cap-6:	View from the studio window.
+cap-6:	The tattoo shop Aaron suggested, the first American I met on my second say in Seoul. Almost didn't go in the end.
 
 img-7:	img_6694.jpg
-cap-7:	Drawing it up!!
+cap-7:	View from the studio window.
 
 img-8:	img_6695.jpg
-cap-8:	Did it hurt? Yes, some times. 
+cap-8:	
 
 img-9:	img_6696.jpg
-cap-9:	
+cap-9:	Did it hurt? Yes, some times. 
 
 img-10:	img_6697.jpg
 cap-10:	

@@ -9,7 +9,7 @@ date: 2015-10-1 23:55:55
 title:  "Day 16"
 subtitle: "Namsan Wedding"
 
-thumb:	
+thumb:	img_6643.jpg
 
 img-1:	img_6626.jpg
 cap-1:	
@@ -24,19 +24,19 @@ img-4:	img_6629.jpg
 cap-4:	
 
 img-5:	img_6630.jpg
-cap-5:	
+cap-5:	Food was amazing! Had Raw (cold) beef! Lots of raw fish, some pig feet slices, and lots of other goodness. Buffet had a Japanese Island a Chinese Island.  
 
 img-6:	img_6631.jpg
-cap-6:	
+cap-6:	Round 2, bit too much, but still ate it all! The fruit salad was amazing too. 
 
 img-7:	img_6632.jpg
-cap-7:	
+cap-7:	Désert was great! Just a lot of random pastries, including a mini macaron.
 
 img-8:	img_6633.jpg
-cap-8:	
+cap-8:	Then Daechan took me to his gym. Where he works and works out. 
 
 img-9:	img_6636.jpg
-cap-9:	
+cap-9:	Dead lifts 225lbs like it's nothing. What a beast. Inspiring. 
 
 img-10:	img_6637.jpg
 cap-10:	
@@ -45,7 +45,7 @@ img-11:	img_6638.jpg
 cap-11:	
 
 img-12:	img_6639.jpg
-cap-12:	
+cap-12:	Off to Namsan! Huge things are farther than they appear.. 
 
 img-13:	img_6640.jpg
 cap-13:	

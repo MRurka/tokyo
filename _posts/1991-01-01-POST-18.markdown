@@ -4,65 +4,65 @@ layout: gallery
 categories: portfolio
 month-number: 10
 
-date: 2015-10-1 23:55:55
+date: 2015-10-19 23:55:55
 
-title:  " "
-subtitle: " "
+title:  "Day 18"
+subtitle: "Tattoo Seoul Omega"
 
 thumb:	
 
-img-1:	
-cap-1:	
+img-1:	img_6688.jpg
+cap-1:	HERR. Beat haircut ever.. Seriously. They first brought me up stairs, to sit on a couch and discuss what i'm looking to get done, how long ago did I cut it, and all to explain to the barber (no English) what I want done. I told them, but also gave them liberty to "have fun" with it. The Barber was very precise, meticulous and gentle. The barbers have assistants that hold tools, get them things, and even brush hair off of my face, nose and ears whenever the case. I felt like a King. They also wash your hair, with a light scalp massage before and in the middle of your cut, where you come back for the styling phase. The assistant took care of the cut throat razor shave. The assistant even had an assistant. It was awesome. 77,000 KRW later..
 
-img-2:	
+img-2:	img_6689.jpg
 cap-2:	
 
-img-3:	
+img-3:	img_6690.jpg
 cap-3: 	
 
-img-4:	
-cap-4:	
+img-4:	img_6691.jpg
+cap-4:	They took a tiny shaver and blade to exaggerate my hair line. A style here.
 
-img-5:	
-cap-5:	
+img-5:	img_6692.jpg
+cap-5:	The tattoo shop Aaron suggested, the first American I met on my second say in Seoul. Almost didn't go in the end.
 
-img-6:	
-cap-6:	
+img-6:	img_6693.jpg
+cap-6:	View from the studio window.
 
-img-7:	
-cap-7:	
+img-7:	img_6694.jpg
+cap-7:	Drawing it up!!
 
-img-8:	
-cap-8:	
+img-8:	img_6695.jpg
+cap-8:	Did it hurt? Yes, some times. 
 
-img-9:	
+img-9:	img_6696.jpg
 cap-9:	
 
-img-10:	
+img-10:	img_6697.jpg
 cap-10:	
 
-img-11:	
+img-11:	img_6698.jpg
 cap-11:	
 
-img-12:	
-cap-12:	
+img-12:	img_6699.jpg
+cap-12:	Was very lucky to meet up with Hyemi, for dinner and a long walk. This was a Japanese specially! Beer with -ice cream- on the top. Really it was like ice flaked beer, but still food. German beer made by Japanese, with Japanese innovation said the glass. 
 
-img-13:	
-cap-13:	
+img-13:	img_6700.jpg
+cap-13:	Had some chicken at the Japanese place near my hostel. 
 
-img-14:	
-cap-14:	
+img-14:	img_6701.jpg
+cap-14:	Hyemi was 80% full so we went for some street food. I had it earlier that day.
 
-img-15:	
-cap-15:	
+img-15:	img_6702.jpg
+cap-15:	Not exaggerating, it may be one of the best things I've ever eaten, and only for 3,000 Won. ~3$
 
-img-16:	
-cap-16:	
+img-16:	img_6603.jpg
+cap-16:	Then chilled with Anna all night. No sleep. Lots of low level fun.
 
-img-17:	
+img-17:	img_6604.jpg
 cap-17:	
 
-img-18:	
+img-18:	img_6605.jpg
 cap-18:	
 
 img-19:	

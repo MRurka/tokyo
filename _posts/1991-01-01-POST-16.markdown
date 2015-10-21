@@ -35,7 +35,7 @@ cap-7:	Désert was great! Just a lot of random pastries, including a mini macaro
 img-8:	img_6633.jpg
 cap-8:	Then Daechan took me to his gym. Where he works and works out. 
 
-img-9:	img_6636.jpg
+img-9:	img_6634.jpg
 cap-9:	Dead lifts 225lbs like it's nothing. What a beast. Inspiring. 
 
 img-10:	img_6637.jpg

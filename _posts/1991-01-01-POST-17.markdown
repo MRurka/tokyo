@@ -6,88 +6,88 @@ month-number: 10
 
 date: 2015-10-1 23:55:55
 
-title:  " "
-subtitle: " "
+title:  "Day 17"
+subtitle: "Fish - 63 - Corn"
 
-thumb:	
+thumb:	img_6682.jpg
 
-img-1:	
+img-1:	img_6661.jpg
 cap-1:	
 
-img-2:	
+img-2:	img_6662.jpg
 cap-2:	
 
-img-3:	
+img-3:	img_6663.jpg
 cap-3: 	
 
-img-4:	
+img-4:	img_6664.jpg
 cap-4:	
 
-img-5:	
+img-5:	img_6666.jpg
 cap-5:	
 
-img-6:	
+img-6:	img_6667.jpg
 cap-6:	
 
-img-7:	
+img-7:	img_6668.jpg
 cap-7:	
 
-img-8:	
+img-8:	img_6669.jpg
 cap-8:	
 
-img-9:	
+img-9:	img_6670.jpg
 cap-9:	
 
-img-10:	
+img-10:	img_6671.jpg
 cap-10:	
 
-img-11:	
+img-11:	img_6672.jpg
 cap-11:	
 
-img-12:	
+img-12:	img_6673.jpg
 cap-12:	
 
-img-13:	
+img-13:	img_6674.jpg
 cap-13:	
 
-img-14:	
-cap-14:	
+img-14:	img_6675.jpg
+cap-14:	Small little park in the area. Not sure where we are, at all.
 
-img-15:	
+img-15:	img_6676.jpg
 cap-15:	
 
-img-16:	
+img-16:	img_6677.jpg
 cap-16:	
 
-img-17:	
+img-17:	img_6678.jpg
 cap-17:	
 
-img-18:	
-cap-18:	
+img-18:	img_6679.jpg
+cap-18:	Delicious Baskin Robins. First time there. Delicious.
 
-img-19:	
-cap-19:	
+img-19:	img_6687.jpg
+cap-19:	63 Building is on the right. The strip of glass on the 60th floor is the 360 view.
 
-img-20:	
+img-20:	img_6680.jpg
 cap-20:	
 
-img-21:	
+img-21:	img_6681.jpg
 cap-21:	
 
-img-22:	
+img-22:	img_6682.jpg
 cap-22:	
 
-img-23:	
+img-23:	img_6683.jpg
 cap-23:	
 
-img-24:	
+img-24:	img_6684.jpg
 cap-24:	
 
-img-25:	
+img-25:	img_6685.jpg
 cap-25:	
 
-img-26:	
-cap-26:	
+img-26:	img_6686.jpg
+cap-26:	Best corn drink in the world.
 
 img-27:	
 cap-27:	
@@ -133,4 +133,4 @@ cap-40:
 
 ---
 
-Jane and I hit up the fish market. Had some Shashimi! Obviously lots of strange things. Then after some Baskin Robins, and then we got up the 63 building, where you can pay to ride up to the 60th floor view. Very beautiful with a 360 view of Seoul. Rada.
+Jane and I hit up the fish market. Had some Shashimi! Obviously lots of strange things. Then after some Baskin Robins, and then we got up the 63 building, where you can pay to ride up to the 60th floor view. Very beautiful with a 360 view of Seoul. Rada night.

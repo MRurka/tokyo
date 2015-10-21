@@ -6,8 +6,8 @@ month-number: 10
 
 date: 2015-10-1 23:55:55
 
-title:  " "
-subtitle: " "
+title:  "Day 16"
+subtitle: "Namsan Wedding"
 
 thumb:	
 

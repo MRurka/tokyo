@@ -17,7 +17,7 @@ cap-1:	Where I inadvertently fall asleep almost every night -.-
 img-2:	img_5629.jpg
 cap-2:	Met these great great men. Dentist (?), Army General, Soldier. Left to right. 
 
-img-3:	img_5630.jpgg
+img-3:	img_5630.jpg
 cap-3: 	Very kind girls :)
 
 img-4:	img_5631.jpg
@@ -26,16 +26,16 @@ cap-4:	First bar I went before Thursday Party. Owl something. Super empty -.-
 img-5:	img_5632.jpg
 cap-5:	
 
-img-6:	img_5633.jpgg
+img-6:	img_5633.jpg
 cap-6:	At Thursday Party, again
 
-img-7:	img_5634.jpgg
+img-7:	img_5634.jpg
 cap-7:	
 
-img-8:	img_5635.jpgg
-cap-8:	Kolton,... 
+img-8:	img_5635.jpg
+cap-8:	
 
-img-9:	img_5636.jpgg
+img-9:	img_5636.jpg
 cap-9:	
 
 img-10:	img_5637.jpg

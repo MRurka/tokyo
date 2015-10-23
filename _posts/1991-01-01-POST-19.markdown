@@ -4,113 +4,113 @@ layout: gallery
 categories: portfolio
 month-number: 10
 
-date: 2015-10-1 23:55:55
+date: 2015-10-20 23:55:55
 
-title:  " "
-subtitle: " "
+title:  "Day 19"
+subtitle: "Soju to Sake "
 
 thumb:	
 
-img-1:	
+img-1:	img_6908.jpg
 cap-1:	
 
-img-2:	
+img-2:	img_6909.jpg
 cap-2:	
 
-img-3:	
+img-3:	img_6910.jpg
 cap-3: 	
 
-img-4:	
+img-4:	img_6911.jpg
 cap-4:	
 
-img-5:	
+img-5:	img_6912.jpg
 cap-5:	
 
-img-6:	
+img-6:	img_6913.jpg
 cap-6:	
 
-img-7:	
+img-7:	img_6914.jpg
 cap-7:	
 
-img-8:	
+img-8:	img_6915.jpg
 cap-8:	
 
-img-9:	
+img-9:	img_6916.jpg
 cap-9:	
 
-img-10:	
+img-10:	img_6917.jpg
 cap-10:	
 
-img-11:	
+img-11:	img_6918.jpg
 cap-11:	
 
-img-12:	
+img-12:	img_6919.jpg
 cap-12:	
 
-img-13:	
+img-13:	img_6920.jpg
 cap-13:	
 
-img-14:	
+img-14:	img_6921.jpg
 cap-14:	
 
-img-15:	
+img-15:	img_6922.jpg
 cap-15:	
 
-img-16:	
+img-16:	img_6923.jpg
 cap-16:	
 
-img-17:	
+img-17:	img_6924.jpg
 cap-17:	
 
-img-18:	
+img-18:	img_6925.jpg
 cap-18:	
 
-img-19:	
+img-19:	img_6927.jpg
 cap-19:	
 
-img-20:	
+img-20:	img_6928.jpg
 cap-20:	
 
-img-21:	
+img-21:	img_6929.jpg
 cap-21:	
 
-img-22:	
+img-22:	img_6930.jpg
 cap-22:	
 
-img-23:	
+img-23:	img_6931.jpg
 cap-23:	
 
-img-24:	
+img-24:	img_6932.jpg
 cap-24:	
 
-img-25:	
+img-25:	img_6933.jpg
 cap-25:	
 
-img-26:	
+img-26:	img_6934.jpg
 cap-26:	
 
-img-27:	
+img-27:	img_6935.jpg
 cap-27:	
 
-img-28:	
+img-28:	img_6936.jpg
 cap-28:	
 
-img-29:	
+img-29:	img_6937.jpg
 cap-29:	
 
-img-30:	
+img-30:	img_6938.jpg
 cap-30:	
 
-img-31:	
+img-31:	img_6939.jpg
 cap-31:	
 
-img-32:	
+img-32:	img_6940.jpg
 cap-32:	
 
-img-33:	
+img-33:	img_6941.jpg
 cap-33:	
 
-img-34:	
+img-34:	img_6942.jpg
 cap-34:	
 
 img-35:	

@@ -110,8 +110,8 @@ cap-32:	Ben and I drinking with some Germans! Played President and Asshole all n
 img-33:	img_7085.jpg
 cap-33:	
 
-img-34:	
-cap-34:	
+img-34:	img_7088.jpg
+cap-34:	The Germans checked out the next day and wrote in the book, kindly.
 
 img-35:	
 cap-35:	

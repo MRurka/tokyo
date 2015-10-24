@@ -12,22 +12,22 @@ subtitle: "Soju to Sake"
 thumb:	
 
 img-1:	img_6908.jpg
-cap-1:	
+cap-1:	Anna fell asleep. Had breakfast alone. 
 
 img-2:	img_6909.jpg
-cap-2:	
+cap-2:	Photo from a few days before taken by Jane at the fish market. Tasty tasty. 
 
 img-3:	img_6910.jpg
-cap-3: 	
+cap-3: 	Space invaders on the plane! The boss was nearly impossible.. And the game lagged -.- but still a decent time!! 
 
 img-4:	img_6911.jpg
-cap-4:	
+cap-4:	Badass snack in the airport. Asparagus Weiner.
 
 img-5:	img_6912.jpg
-cap-5:	
+cap-5:	Decent this time. Usually amazing, but this was okay. The little tube is hot sauce.
 
 img-6:	img_6913.jpg
-cap-6:	
+cap-6:	Beautiful. Pondered the design of the butter dispensor. Was it deliberately shaped as such? If not, was it inherently in the soul of the engineer? Japanese have it in them. You can see it everywhere. I want to believe design wasn't a priority here. It's just there by virtue of Japan. Every little thing. I think design wasn't a priority because it's a butter packet. And because constant emotional design thinking is expensive for the mind. Can't spread it too thin, over everything. Butter can't have it. Maybe? Now that I write this, I realize this could be Korean butter too. Either way, both have similarities. I think Korea has better deliberate design, but Japan has better inherent, innate design. 
 
 img-7:	img_6914.jpg
 cap-7:	
@@ -39,7 +39,7 @@ img-9:	img_6916.jpg
 cap-9:	
 
 img-10:	img_6917.jpg
-cap-10:	
+cap-10:	"Long train ride. What a sight!! Narita is where the airport is, passing through Chiba, onto Tokyo. I'm staying in Kōtō. Say Koto and people get confused."
 
 img-11:	img_6918.jpg
 cap-11:	
@@ -63,7 +63,7 @@ img-17:	img_6924.jpg
 cap-17:	
 
 img-18:	img_6925.jpg
-cap-18:	
+cap-18:	Forgot how huge the bike culture is in Tokyo. Much better now dodging them on the sidewalks too. Sharper than my hairline.
 
 img-19:	img_6927.jpg
 cap-19:	
@@ -72,7 +72,7 @@ img-20:	img_6928.jpg
 cap-20:	
 
 img-21:	img_6929.jpg
-cap-21:	
+cap-21:	Found it after a while! Sick place.
 
 img-22:	img_6930.jpg
 cap-22:	
@@ -87,13 +87,13 @@ img-25:	img_6933.jpg
 cap-25:	
 
 img-26:	img_6934.jpg
-cap-26:	
+cap-26:	It's a double bed actually. It looks small in the photo but it's mad comfortable, really. Lors of room and the bunks are so sturdy.
 
 img-27:	img_6935.jpg
-cap-27:	
+cap-27:	Tricked out kitchen. Place is under construction. It already looks a ton better presently.
 
 img-28:	img_6936.jpg
-cap-28:	
+cap-28:	Hit up Shibuya for a stroll. 
 
 img-29:	img_6937.jpg
 cap-29:	
@@ -108,7 +108,7 @@ img-32:	img_6940.jpg
 cap-32:	
 
 img-33:	img_6941.jpg
-cap-33:	
+cap-33:	TV show recording!! Watched for a while. Looked kinda cool.
 
 img-34:	img_6942.jpg
 cap-34:	

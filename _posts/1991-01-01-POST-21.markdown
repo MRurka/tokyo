@@ -4,96 +4,96 @@ layout: gallery
 categories: portfolio
 month-number: 10
 
-date: 2015-10-1 23:55:55
+date: 2015-10-22 23:55:55
 
-title:  " "
-subtitle: " "
+title:  "Day 21"
+subtitle: "Ben Pub Explore"
 
-thumb:	
+thumb:	img_6993.jpg
 
-img-1:	
-cap-1:	
+img-1:	img_6971.jpg
+cap-1:	Anna sent me these photos the day I left for Tokyo. They don't exchange coins at the Currency stands so I left some Won behind. 
 
-img-2:	
-cap-2:	
+img-2:	img_6972.jpg
+cap-2:	She redid my note, what a sweetheart.
 
-img-3:	
-cap-3: 	
+img-3:	img_6973.jpg
+cap-3: 	Miles being the fair man he is. Splitting it up.
 
-img-4:	
-cap-4:	
+img-4:	img_6974.jpg
+cap-4:	Found an awesome little Cafe on Foursquare, the app. Everything was in japanese but I made it and ordered! "To he" (coffee) and a cake I pointed to. 
 
-img-5:	
-cap-5:	
+img-5:	img_6975.jpg
+cap-5:	Super tasty. Lots of great coffee in Tokyo. 
 
-img-6:	
+img-6:	img_6976.jpg
 cap-6:	
 
-img-7:	
-cap-7:	
+img-7:	img_6977.jpg
+cap-7:	Met Ben when I got back fr my coffee. He's from New Zealand. Sleeps in my room, across bunks. Super nice guy. We hit the town and found this neat "abandoned" train track bridge thing. Inside was a marvel. Many many designed shops.
 
-img-8:	
+img-8:	img_6978.jpg
 cap-8:	
 
-img-9:	
+img-9:	img_6979.jpg
 cap-9:	
 
-img-10:	
+img-10:	img_6980.jpg
 cap-10:	
 
-img-11:	
+img-11:	img_6981.jpg
 cap-11:	
 
-img-12:	
+img-12:	img_6982.jpg
 cap-12:	
 
-img-13:	
-cap-13:	
+img-13:	img_6983.jpg
+cap-13:	Another great coffee place!!
 
-img-14:	
+img-14:	img_6984.jpg
 cap-14:	
 
-img-15:	
-cap-15:	
+img-15:	img_6985.jpg
+cap-15:	Killed the man. Tokyo this.
 
-img-16:	
-cap-16:	
+img-16:	img_6986.jpg
+cap-16:	Found a swag restaurant under a highway.
 
-img-17:	
+img-17:	img_6987.jpg
 cap-17:	
 
-img-18:	
+img-18:	img_6988.jpg
 cap-18:	
 
-img-19:	
+img-19:	img_6989.jpg
 cap-19:	
 
-img-20:	
+img-20:	img_6990.jpg
 cap-20:	
 
-img-21:	
+img-21:	img_6991.jpg
 cap-21:	
 
-img-22:	
-cap-22:	
+img-22:	img_6992.jpg
+cap-22:	We wanted a beer and burger. But pubs here don't have pub food!??? -.- boo
 
-img-23:	
-cap-23:	
+img-23:	img_6993.jpg
+cap-23:	This is ben. Architect, kind, intelligent and reasonably gentle. Also pretty dam successful. Runs a few businesses with a few of his mates. 
 
-img-24:	
-cap-24:	
+img-24:	img_6994.jpg
+cap-24:	Miso pizza? Small and expensive -.- 
 
-img-25:	
+img-25:	img_6995.jpg
 cap-25:	
 
-img-26:	
+img-26:	img_6996.jpg
 cap-26:	
 
-img-27:	
-cap-27:	
+img-27:	img_6997.jpg
+cap-27:	Didn't expect a sweet potato..
 
-img-28:	
-cap-28:	
+img-28:	img_6998.jpg
+cap-28:	Best thing ever tasted. 
 
 img-29:	
 cap-29:	

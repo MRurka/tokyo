@@ -7,12 +7,12 @@ month-number: 10
 date: 2015-10-23 23:55:55
 
 title:  "Day 22"
-subtitle: "German Cards"
+subtitle: "President Asshole"
 
 thumb:	
 
 img-1:	img_7053.jpg
-cap-1:	
+cap-1:	Ben and I went to visit a building built by famous architect. Off to adventure. Was like 1 hour walk. 
 
 img-2:	img_7054.jpg
 cap-2:	
@@ -27,28 +27,28 @@ img-5:	img_7057.jpg
 cap-5:	
 
 img-6:	img_7058.jpg
-cap-6:	
+cap-6:	This is it!
 
 img-7:	img_7059.jpg
-cap-7:	
+cap-7:	Clever.
 
 img-8:	img_7060.jpg
 cap-8:	
 
 img-9:	img_7061.jpg
-cap-9:	
+cap-9:	Sexy Iced Americano
 
 img-10:	img_7062.jpg
-cap-10:	
+cap-10:	What a view! 
 
 img-11:	img_7063.jpg
-cap-11:	
+cap-11:	We didn't know this was here so wow! What a treasure!! Such a good find. Filled with lots of tourist gifts, but not tacky stuff. Many native Japanese people there too! Not a tourist trap! Girl I was chilling with today says Yakuza always hangs out there.. Cray cray. Didn't know. 
 
 img-12:	img_7064.jpg
 cap-12:	
 
 img-13:	img_7065.jpg
-cap-13:	
+cap-13:	The power of a foreign wink.
 
 img-14:	img_7066.jpg
 cap-14:	
@@ -60,31 +60,31 @@ img-16:	img_7068.jpg
 cap-16:	
 
 img-17:	img_7069.jpg
-cap-17:	
+cap-17:	Everyone threw coins into the grid, then prayed for a few seconds. Many many people. 
 
 img-18:	img_7070.jpg
-cap-18:	
+cap-18:	Fortune Game!!
 
 img-19:	img_7071.jpg
 cap-19:	
 
 img-20:	img_7072.jpg
-cap-20:	
+cap-20:	How reassuring.. I prayed for assistance in my design journey, being the reason I'm here.. Thanks box.
 
 img-21:	img_7073.jpg
 cap-21:	
 
 img-22:	img_7074.jpg
-cap-22:	
+cap-22:	High School students on an assignment! Asked us kindly for an interview. 1. our names, spelled. 2. Where are we from. 3. Do we know any Japanese artists or actors. 4. What do we like about Japan. And 5. A picture! Of course! 
 
 img-23:	img_7075.jpg
 cap-23:	
 
 img-24:	img_7076.jpg
-cap-24:	
+cap-24:	Goldfish 
 
 img-25:	img_7077.jpg
-cap-25:	
+cap-25:	Found another treasure. Asahi, Spicy noodles ans Dumplings! So good. Best meal ever. Everything In Japan is amazing. 
 
 img-26:	img_7078.jpg
 cap-26:	
@@ -96,7 +96,7 @@ img-28:	img_7080.jpg
 cap-28:	
 
 img-29:	img_7081.jpg
-cap-29:	
+cap-29:	This was conflicting. Initially, i thought, how awesome, Kamikaze!! More literally God of Wind. Kami (God) Kaze (Wind). I started wondering if it was offensive or insensitive because of what happened in World War II. Though, on our way home, many people smiled and chuckled at the sight. One girl gestured "eating noodles", with a smile. Hmm. Then someone on a bike said it was "cool". But I got home, read up on Kamikaze and I can no longer wear it. Doesn't feel right. Reading some excerpts from letters by Kamikaze pilots was the tipping point. A tradition of the Samurai, to write a poem of sorts before an act of suicide or profound commitment. Bushido.
 
 img-30:	img_7082.jpg
 cap-30:	
@@ -105,7 +105,7 @@ img-31:	img_7083.jpg
 cap-31:	
 
 img-32:	img_7084.jpg
-cap-32:	
+cap-32:	Ben and I drinking with some Germans! Played President and Asshole all night! The hosts' girlfriend also joined us for much of it. Was such a perfect night. For the first time, perhaps ever, I didn't lose, once. Lucky hands.
 
 img-33:	img_7085.jpg
 cap-33:	

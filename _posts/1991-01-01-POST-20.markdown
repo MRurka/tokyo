@@ -6,22 +6,22 @@ month-number: 10
 
 date: 2015-10-1 23:55:55
 
-title:  " "
-subtitle: " "
+title:  "Day 20"
+subtitle: "Boring"
 
-thumb:	
+thumb:	img_6968.jpg
 
-img-1:	
+img-1:	img_6965.jpg
 cap-1:	
 
-img-2:	
+img-2:	img_6966.jpg
 cap-2:	
 
-img-3:	
+img-3:	img_6967.jpg
 cap-3: 	
 
-img-4:	
-cap-4:	
+img-4:	img_6968.jpg
+cap-4:	Defeated. It only looks like I'm drunk. It's an illusion. 
 
 img-5:	
 cap-5:	
@@ -133,4 +133,14 @@ cap-40:
 
 ---
 
+Slow day.. to say the least. It 4 photos. Soz. 
 
+Went out to Roppongi. Kept thinking of the night I got ripped. I was naive and foolish. I still am, but I hope on a better level. This whole trip has changed me for the better. Every accident, every conversation, every achievement, lucky and/or foolish. Of course, only time will tell whether or not I've changed. So I hope, my dear friends and beloved family, that our relationships will be even more fruitful.
+
+Half way in, it feels like I've been away for a few months. I hope to look back on my trip, via this "blog" and reminisce. Suppose I'm half talking to my family, friends, and half speaking to myself, in the future. So somewhat filtered. Reasonably. 
+
+I was disappointed in Roppongi that night. It isn't like Hongdae, Itaewon or Gangnam. Much less open. Similarly to the girls here. Quite, quite conservative. Though, perhaps Roppongi just isn't the place to be. Need to find like a smaller, more casual place. Roppongi is a foreigner money racket full of Africans trying to hustle you into their "lounges" with false promises. Avoid them. Say "No thank you" politely, said one of them after I lashed a bit of frustration. He told me "This is a business area, everyone will want to bother you. You just have to say no thank you and keep on". I sincerely appreciated his insight. I shook his hand gracefully and apologized. Though he was kind, I kept my guard. That's how they get you. Everyone wants to be your friend there. That's how I got fucked that first time lol, yikes. Either way, I'm the thankful of his advice. 
+
+The juice was strange. A Japanese man chuckled at me trying to figure out the taste. The chocolate puffs were "ma ma". Which is "so so" in Japanese. Too soft. But cheap :D
+
+Peace.

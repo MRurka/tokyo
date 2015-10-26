@@ -7,7 +7,7 @@ month-number: 10
 date: 2015-10-24 23:55:55
 
 title:  "Day 23"
-subtitle: "SOBA + Ninja Beer"
+subtitle: "SOBA - Ninja Beer"
 
 thumb:	img_7137.jpg
 

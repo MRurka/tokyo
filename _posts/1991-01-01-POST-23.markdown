@@ -1,10 +1,9 @@
 ---
-
 layout: gallery
 categories: portfolio
 month-number: 10
 
-date: 2015-10-24 23:55:55
+date: 2015-10-24 23:55:56
 
 title:  "Day 23"
 subtitle: "SOBA - Ninja Beer"

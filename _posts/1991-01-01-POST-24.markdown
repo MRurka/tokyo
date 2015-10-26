@@ -6,7 +6,7 @@ month-number: 10
 
 date: 2015-10-1 23:55:55
 
-title:  " "
+title:  "test"
 subtitle: " "
 
 thumb:	

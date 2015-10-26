@@ -4,12 +4,12 @@ layout: gallery
 categories: portfolio
 month-number: 10
 
-date: 2015-10-1 23:55:55
+date: 2015-10-25 23:55:55
 
 title:  "test"
 subtitle: " "
 
-thumb:	
+thumb:	img_6968.jpg
 
 img-1:	
 cap-1:	

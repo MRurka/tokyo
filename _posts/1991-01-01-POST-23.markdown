@@ -18,7 +18,7 @@ img-2:	img_7120.jpg
 cap-2:	
 
 img-3:	img_7121.jpg
-cap-3: 	Finish pools! Kōtō is so beautiful man.
+cap-3: 	Finish pools! Koto is so beautiful man.
 
 img-4:	img_7122.jpg
 cap-4:	

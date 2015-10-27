@@ -9,9 +9,9 @@ date: "2015-10-24 23:55:56"
 title:  "Day 23"
 subtitle: "SOBA - Ninja Beer"
 
-thumb:	img_7137.jpg
+thumb:	"img_7137.jpg"
 
-img-1:	img_7119.jpg
+img-1:	"img_7119.jpg"
 cap-1:	Met Yasuyo that morning with 2 of her friends, hanging outside in front of the  SevenEleven. Was her last day at SevenEleven. Met her briefly the day before during my daily sandwich breakfast and canned coffee runs. One of her friend quit the week before, and her to her friend's last day was (tomorrow). She took me to a famous Soba place. Literally a 4 minute walk from the hostel. How convenient. Super tasty. Super tasty. Yasuyo also helped me set up my Line account. Line is like the KakaoTalk of Japan. Though I have limited access because I'm a foreigner and I can't figure it out.
 
 img-2:	img_7120.jpg

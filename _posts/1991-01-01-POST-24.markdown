@@ -9,7 +9,7 @@ date: 2015-10-25 23:55:55
 title:  "Day 24"
 subtitle: "Tokyo Design Fest"
 
-thumb:	img_7556.jpg
+thumb:	
 
 img-1:	img_7552.jpg
 cap-1:	

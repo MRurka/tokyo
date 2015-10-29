@@ -6,7 +6,7 @@ month-number: 10
 
 date: 2015-10-25 23:55:55
 
-title:  "Day 24"
+title:  "Day 25"
 subtitle: "Tokyo Design Fest"
 
 thumb:	img_7556.jpg

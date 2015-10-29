@@ -68,7 +68,7 @@ cap-18:
 img-19:	img_7638.jpg
 cap-19:	
 
-img-20:	img_7639.jpg
+img-20:	 img_7639.jpg 
 cap-20:	It's not unhealthy if I'm eating it in Japan, right?.. So biased. Also, I'm alone by this point. Just me and some 100, 150, 200 yen food.
 
 img-21:	img_7640.jpg

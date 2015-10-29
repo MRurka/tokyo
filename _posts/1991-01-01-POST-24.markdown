@@ -50,16 +50,16 @@ cap-12:
 img-13:	img_7613.jpg
 cap-13:	
 
-img-14:	
+img-14:		img_7614.jpg
 cap-14:	
 
-img-15:	
+img-15:		img_7615.jpg
 cap-15:	
 
-img-16:	
+img-16:		img_7616.jpg
 cap-16:	
 
-img-17:	
+img-17:		img_7617.jpg
 cap-17:	
 
 img-18:	

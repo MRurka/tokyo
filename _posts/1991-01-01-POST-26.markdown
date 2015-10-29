@@ -12,10 +12,10 @@ subtitle: "Anna Airport"
 thumb:	img_7627.jpg
 
 img-1:	img_7618.jpg
-cap-1:	
+cap-1:	Every word. 
 
 img-2:	img_7621.jpg
-cap-2:	
+cap-2:	On my way to pick up Anna at the airport. About 1.5h trip by train. Such a sight. 
 
 img-3:	img_7622.jpg
 cap-3: 	
@@ -36,13 +36,13 @@ img-8:	img_7627.jpg
 cap-8:	
 
 img-9:	img_7628.jpg
-cap-9:	
+cap-9:	Picking up my luggage at the Hostel to move to the next one. Onto Shinjuku. Little did I know Shinjuku was going to be 1000x better than Koto. 
 
 img-10:	img_7629.jpg
-cap-10:	
+cap-10:	Love these so much. 
 
 img-11:	img_7630.jpg
-cap-11:	
+cap-11:	First thing I see coming out of the Subway into Shinjuku. Minutes walk from Harajuku, fashion district of Tokyo. The famous Harajuku girls, somewhat popularized (for me) by Gwen Steffany. The signer. 
 
 img-12:	img_7631.jpg
 cap-12:	
@@ -57,10 +57,10 @@ img-15:	img_7634.jpg
 cap-15:	
 
 img-16:	img_7635.jpg
-cap-16:	
+cap-16:	They don't serve 12 inch subs in Japan. Woo! So 2 6s will do just fine! It was smoked salmon, Swiss, on Sesame bread with Basil Sauce. Such good. 
 
 img-17:	img_7636.jpg
-cap-17:	
+cap-17:	Anna, her friend and I met up briefly in Shibuya to walk around and have a few. Easy night. Slow, empty, quiet, lovely.
 
 img-18:	img_7637.jpg
 cap-18:	
@@ -69,10 +69,10 @@ img-19:	img_7638.jpg
 cap-19:	
 
 img-20:	img_7639.jpg
-cap-20:	
+cap-20:	It's not unhealthy if I'm eating it in Japan, right?.. So biased. Also, I'm alone by this point. Just me and some 100, 150, 200 yen food.
 
-img-21:	
-cap-21:	img_7640.jpg
+img-21:	img_7640.jpg
+cap-21:	I had to try more.. As Def says, i'm simply experiencing the culture. Integration.
 
 img-22:	img_7641.jpg
 cap-22:	
@@ -84,7 +84,7 @@ img-24:	img_7643.jpg
 cap-24:	
 
 img-25:	img_7644.jpg
-cap-25:	
+cap-25:	And finally, this is where I had a nap on my 45 minute walk home. I figure crossing guards sit here. The walk took more like 1.5h. Music in the hood, the night was a kind walk. 
 
 img-26:	img_7645.jpg
 cap-26:	

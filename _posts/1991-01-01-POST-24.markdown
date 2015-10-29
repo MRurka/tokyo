@@ -7,9 +7,9 @@ month-number: 10
 date: 2015-10-25 23:55:55
 
 title:  "Day 24"
-subtitle: "Tokyo Design Fest"
+subtitle: "Coat and Coffee"
 
-thumb:	
+thumb:	img_7613.jpg
 
 img-1:	img_7601.jpg
 cap-1:	

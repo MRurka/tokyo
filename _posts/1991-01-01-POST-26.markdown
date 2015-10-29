@@ -6,87 +6,87 @@ month-number: 10
 
 date: 2015-10-1 23:55:55
 
-title:  " "
-subtitle: " "
+title:  "Day 26"
+subtitle: "Anna Airport"
 
 thumb:	
 
-img-1:	
+img-1:	img_7618.jpg
 cap-1:	
 
-img-2:	
+img-2:	img_7621.jpg
 cap-2:	
 
-img-3:	
+img-3:	img_7622.jpg
 cap-3: 	
 
-img-4:	
+img-4:	img_7623.jpg
 cap-4:	
 
-img-5:	
+img-5:	img_7624.jpg
 cap-5:	
 
-img-6:	
+img-6:	img_7625.jpg
 cap-6:	
 
-img-7:	
+img-7:	img_7626.jpg
 cap-7:	
 
-img-8:	
+img-8:	img_7627.jpg
 cap-8:	
 
-img-9:	
+img-9:	img_7628.jpg
 cap-9:	
 
-img-10:	
+img-10:	img_7629.jpg
 cap-10:	
 
-img-11:	
+img-11:	img_7630.jpg
 cap-11:	
 
-img-12:	
+img-12:	img_7631.jpg
 cap-12:	
 
-img-13:	
+img-13:	img_7632.jpg
 cap-13:	
 
-img-14:	
+img-14:	img_7633.jpg
 cap-14:	
 
-img-15:	
+img-15:	img_7634.jpg
 cap-15:	
 
-img-16:	
+img-16:	img_7635.jpg
 cap-16:	
 
-img-17:	
+img-17:	img_7636.jpg
 cap-17:	
 
-img-18:	
+img-18:	img_7637.jpg
 cap-18:	
 
-img-19:	
+img-19:	img_7638.jpg
 cap-19:	
 
-img-20:	
+img-20:	img_7639.jpg
 cap-20:	
 
 img-21:	
-cap-21:	
+cap-21:	img_7640.jpg
 
-img-22:	
+img-22:	img_7641.jpg
 cap-22:	
 
-img-23:	
+img-23:	img_7642.jpg
 cap-23:	
 
-img-24:	
+img-24:	img_7643.jpg
 cap-24:	
 
-img-25:	
+img-25:	img_7644.jpg
 cap-25:	
 
-img-26:	
+img-26:	img_7645.jpg
 cap-26:	
 
 img-27:	
@@ -133,4 +133,12 @@ cap-40:
 
 ---
 
+Amazing is tight urban Tokyo. "How cool it is" would say Anthony, from France. Endlessly efficient and free. Respect -- or apathy -- for peoples' own business, is my impression. Clothes line, fashion, decorations, home architecture. It seems the efforts for individualism, like in Canada, are much less. It's simply intrinsic. Why simple? Because it's just the way it is. It doesn't have to be like anything. Merely my Canadian view in such a land where spacial efficiency is key. Makes me ponder how much space we have in Canada. Having said that, don't imagine Japan, and Tokyo specifically, is all tight. There's still much breathing room, parks, large streets, shopping centres. Especially the parks. 
 
+I'm on the train, on my way to pick up Anna at the airport. It's a very long ways away. When I left Seoul, she was going to come to Itcheon Airport with me, for my départ. She fell asleep at the Hostel with the door locked. Sound proof door, i didn't want to disturb anyone, so I left. She later woke up in a panic, hours later. Amazingly, she still came to the airport, late, however. I was at my departure gate when she'd got to th  airport. How sad. I felt bad. Of course I told her not to come, and that's it's too much hassle. She does live in Itcheon, but still. So this is like paying her back, happily. I found out today she had a fear of flying lol too cute man, really. 
+
+Don't want to leave. Too many people. So little time. Too many sights. So little daylight. Too many inexpensive beers. So little bad times.  Hardly the reason to love Asia. I'm fascinated by the minute infrastructure details. I'm even more convinced of my initial hypothesis. In the soul of the Japanese, spacial awareness, aesthetic and nature in design are innate. II must emphasize, it is a natural response, I think. Canada has (only) deliberate aesthetic design. At best. And it is truly a piggy back effect, it must be. What we see and feel, influence our logical, and imagination. So it's perhaps much easier to maintain an infrastructure of design with it being so heavily carved into each block, home and foot wide alleys. The question, how did japan become this way? Nature and availability of space is my guess.
+
+I still maintain that Japan's low level deliberate design is (somewhat) not so strong. Many at the edge of modernity, mixed with early 2010's (relative to Canadian design). For print and advertisements, I can speak. But many is simply 2010's. Not to say Canada has it going, or is any better, but I think we may have better deliberate-natural design. Perhaps. I'm happy to be wrong about my assessment. 
+
+Often I wonder why design interests me. I remember clearly how I fell into design. Wonderful mum simply suggested I try the college, and 5 years later, here I am in Japan, utterly enthralled by manholes, fire extinguisher cases, and street markings. I often wonder if I'd went through with UNB sciences, would I've fell into art or design still. I'd like to believe I was destined for design, but that is impossible. Is that okay? I'm not sure. Many things are okay, but i'm conflicted here. 
